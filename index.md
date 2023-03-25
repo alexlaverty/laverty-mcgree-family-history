@@ -463,6 +463,13 @@ witness looked at them on the Saturday and aon Sunday between 5 and 6; there was
 
 ## Alfred Henry Cook and Jessie Elvina Coulter
 
+<table>
+<tr><td><img src="photos/alfred-henry-cook-2.jpg" height=500px></td><td><img src="photos/jessie_alvina_coulter_cook.jpg" height=500px></td></tr>
+</table>
+
+<img src="photos/alfred-henry-cook-news-article.jpg">
+
+<img src="photos/alfred-henry-cook-news-article-02.jpg">
 
 # Immigration to Australia
 
