@@ -23,6 +23,9 @@ title: Alex Laverty Family History Book
         - [Lavert Reunion Starts Tomorrow](#lavert-reunion-starts-tomorrow)
         - [Laverty re-union](#laverty-re-union)
         - [Laverty reunion](#laverty-reunion)
+    - [Laverty Reunion 2015](#laverty-reunion-2015)
+    - [Leonard and Elsie Lavertys Children](#leonard-and-elsie-lavertys-children)
+    - [Leonard and Elsie Lavertys Grand Children](#leonard-and-elsie-lavertys-grand-children)
 - [World War II](#world-war-ii)
     - [The McGree Brothers](#the-mcgree-brothers)
         - [War Time Mystery Leads Two Men to Taylors Arm](#war-time-mystery-leads-two-men-to-taylors-arm)
@@ -32,6 +35,7 @@ title: Alex Laverty Family History Book
 - [The McGree Family](#the-mcgree-family)
     - [Peter James McGree](#peter-james-mcgree)
 - [The Koch Family](#the-koch-family)
+    - [German Ancestry](#german-ancestry)
     - [The Cooks of Stuarts Point](#the-cooks-of-stuarts-point)
 - [Immigration to Australia](#immigration-to-australia)
     - [Laverty Immigration](#laverty-immigration)
@@ -241,6 +245,21 @@ Col Laverty
 
 Roy Sanders Street, South West Rocks
 
+## Laverty Reunion 2015
+
+## Leonard and Elsie Lavertys Children
+
+Lyndon, Colin, Linda, Joan, Pam, Peter, Susan, Gerry, Mary, Tom, Lilly, Danny, Elsie, Irene, Greg, Ilene, Len, Wendy.
+
+<img src="photos/laverty-family-reunion-2015-siblings.jpg">
+
+## Leonard and Elsie Lavertys Grand Children
+
+Back Row : Luke, Brooke, Andrew, Aaron, Alex, Melissa, Michael, 1, 1, Ashleigh
+
+Front Row : Jason, 1, Denis, Sharon, 1, Andrea, Carol, Lenice
+
+<img src="photos/laverty-reunion-2015-cousins.jpg">
 
 # World War II
 
@@ -332,6 +351,14 @@ Macksville Railway Station early 1920. Jim (James) Gaddes ready to unload a cart
 <img src="photos/Peter-James-McGree-bullocks-macksville-railway-station-1920.jpg">
 
 # The Koch Family
+
+## German Ancestry
+
+One thing I found interesting was that my grand mother Elsie had german ancestry via the following path way :
+
+Elsie Pearl McGree --> Ethel Stella Cook --> Alfred Henry Cook --> Johan Peter Koch
+
+<img src="photos/koch-german-ancestry.png">
 
 ## The Cooks of Stuarts Point
 
