@@ -14,7 +14,7 @@ title: Alex Laverty Family History Book
 - [Introduction](#introduction)
 - [Alex Laverty Ancestry.com DNA Ethnicity Estimate](#alex-laverty-ancestrycom-dna-ethnicity-estimate)
     - [Ethnicity Estimate](#ethnicity-estimate)
-    - [Detailed Comparison of](#detailed-comparison-of)
+    - [Ethnicity Estimate by Parent](#ethnicity-estimate-by-parent)
     - [Ancestors Family Tree](#ancestors-family-tree)
 - [Laverty Farm in Taylors Arm](#laverty-farm-in-taylors-arm)
 - [The Pub with No Beer](#the-pub-with-no-beer)
@@ -417,7 +417,7 @@ The date of the Cook's arrival at Stuart's Point is not yet precisely known They
 
 In 1883 the Kirkwood brothers opened a sawmill at Stuart's Point and a village soon started to grow around the mill Stuart's Point got it's own Public School in 1899 and this y t would have seen many of the descendants of Peter and Anna attending. The first teacher, Henry Peck from Wagga Wagga was not impressed with conditions at the Point.
 
-"I have an inferior residence one and a quarter miles from school. That distance I have to trudge knee-deep in sand in all weathers I am 26 miles from store, church, doctor etc. and no steamer or coach to reach Kempsey Sometimes my family are without beef for a fortnight, and when supplied it is hardly fit for human consumption Further it is not con venient to keep a borse as there is no grass within miles of the Point. This is the home of Death Adders snakes and sandflies, also the dingo, but few people"
+"I have an inferior residence one and a quarter miles from school. That distance I have to trudge knee-deep in sand in all weathers I am 26 miles from store, church, doctor etc. and no steamer or coach to reach Kempsey Sometimes my family are without beef for a fortnight, and when supplied it is hardly fit for human consumption Further it is not convenient to keep a horse as there is no grass within miles of the Point. This is the home of Death Adders snakes and sandflies, also the dingo, but few people"
 
 This gives a little insight to conditions at Stuart's Point in the 19th century. Although another sawmill opened in 1886, the work was intermittent and the families were poor, Peter is known to have been a farmer, lay Methodist Minister and a Vine Dresser. It is not known if he worked at the mill He was best known as caretaker of the North Coast Co's shed and wharf at Stuart's Point He was naturalized on 27/Aug/1878 Anna was a midwife at Stuart's Point
 
