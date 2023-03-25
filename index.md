@@ -12,6 +12,7 @@ title: Alex Laverty Family History Book
 
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
+    - [Ancestors Family Tree](#ancestors-family-tree)
 - [Laverty Farm in Taylors Arm](#laverty-farm-in-taylors-arm)
 - [The Pub with No Beer](#the-pub-with-no-beer)
 - [Lavertys Bridge](#lavertys-bridge)
@@ -47,6 +48,11 @@ title: Alex Laverty Family History Book
 
 # Introduction
 
+This is my attempt at putting together a history of my family, with so much information it's hard to figure out how to structure it and in what order, so I will start with myself and work my way up, the information will mainly focus around the descendants and ancenstors of my paternal grand parents, Leonard James Laverty and Elsie Pearl McGree.
+
+## Ancestors Family Tree
+
+<img src="photos/laverty-pedigree.png">
 
 # Laverty Farm in Taylors Arm
 
