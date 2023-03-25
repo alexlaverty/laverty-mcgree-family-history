@@ -24,7 +24,7 @@ title: Alex Laverty Family History Book
         - [Laverty re-union](#laverty-re-union)
         - [Laverty reunion](#laverty-reunion)
     - [Laverty Reunion 2015](#laverty-reunion-2015)
-    - [Leonard and Elsie Lavertys Children](#leonard-and-elsie-lavertys-children)
+    - [Leonard and Elsie Lavertys Children and Partners](#leonard-and-elsie-lavertys-children-and-partners)
     - [Leonard and Elsie Lavertys Grand Children](#leonard-and-elsie-lavertys-grand-children)
 - [World War II](#world-war-ii)
     - [The McGree Brothers](#the-mcgree-brothers)
@@ -247,7 +247,7 @@ Roy Sanders Street, South West Rocks
 
 ## Laverty Reunion 2015
 
-## Leonard and Elsie Lavertys Children
+## Leonard and Elsie Lavertys Children and Partners
 
 Lyndon, Colin, Linda, Joan, Pam, Peter, Susan, Gerry, Mary, Tom, Lilly, Danny, Elsie, Irene, Greg, Ilene, Len, Wendy.
 
@@ -308,7 +308,11 @@ Taylors Arm Hall: 1914-1918 war - Addison B, Bowie C, Butt O, Carroll TA, Daley 
 
 Burrapine Hall: 1914-1918 war-Addison B, Chelman W, Daley CC and McKay A. 1939-1945 war - McKay N, Smith WA, Thompson H and Ward CD.
 
+<b>Patrick James McGree</b>
+
 <img src="photos/war-mystery001.jpg">
+
+<b>Peter James McGree</b>
 
 <img src="photos/war-mystery002.jpg">
 
@@ -340,7 +344,25 @@ LANDING: The ANZACs at Gabba Tempa 1915
 
 ## Leonard James Laverty
 
+<img src="photos/leonard-laverty-army.jpg">
 
+<b>Leonard James Laverty and his sister Jenevieve Laverty</b>
+
+<img src="photos/leonard-laverty-1940.jpg">
+
+https://recordsearch.naa.gov.au/
+
+<img src="photos/leonard-james-laverty-war.jpg">
+
+<img src="photos/leonard-james-laverty-war-02.jpg">
+
+<img src="photos/leonard-james-laverty-war-03.jpg">
+
+<img src="photos/leonard-james-laverty-war-04.jpg">
+
+<img src="photos/leonard-james-laverty-war-05.jpg">
+
+<img src="photos/leonard-james-laverty-war-06.jpg">
 
 # The McGree Family
 
