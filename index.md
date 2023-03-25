@@ -16,6 +16,7 @@ title: Alex Laverty Family History Book
 - [Laverty Farm in Taylors Arm](#laverty-farm-in-taylors-arm)
 - [The Pub with No Beer](#the-pub-with-no-beer)
 - [Lavertys Bridge](#lavertys-bridge)
+    - [Big is beautiful for family](#big-is-beautiful-for-family)
 - [Laverty Family Reunions](#laverty-family-reunions)
     - [Laverty Family Reunion 1989](#laverty-family-reunion-1989)
         - [Laverty's came in their hundreds](#lavertys-came-in-their-hundreds)
@@ -24,6 +25,9 @@ title: Alex Laverty Family History Book
         - [Laverty reunion](#laverty-reunion)
 - [World War II](#world-war-ii)
     - [The McGree Brothers](#the-mcgree-brothers)
+        - [War Time Mystery Leads Two Men to Taylors Arm](#war-time-mystery-leads-two-men-to-taylors-arm)
+        - [Planning Begins for McGree Photo Presentation](#planning-begins-for-mcgree-photo-presentation)
+        - [McGree Family Truly Upheld ANZAC Spirit](#mcgree-family-truly-upheld-anzac-spirit)
     - [Leonard James Laverty](#leonard-james-laverty)
 - [The McGree Family](#the-mcgree-family)
     - [Peter James McGree](#peter-james-mcgree)
@@ -32,6 +36,9 @@ title: Alex Laverty Family History Book
 - [Immigration to Australia](#immigration-to-australia)
     - [Laverty Immigration](#laverty-immigration)
     - [Koch Immigration](#koch-immigration)
+- [Births](#births)
+- [Marriages](#marriages)
+    - [Len and Wendy Laverty 1974](#len-and-wendy-laverty-1974)
 - [Deaths](#deaths)
     - [Elsie Pearl Laverty McGree Eulogy](#elsie-pearl-laverty-mcgree-eulogy)
     - [Leonard James Laverty](#leonard-james-laverty)
@@ -94,20 +101,46 @@ When his friend Slim Dusty recorded the song in 1957, it became an Australian ch
 In Taylors Arm is also the Laverty's Bridge.
 
 <b>Pictured, Andrea Laverty, Gerry Laverty</b>
+
 <img src="photos/gerry-laverty-bridge.png">
 
 Which according to the Taylors Arm Community facebook group occassionaly floods and goes under water.
 
 <b>Lavertys Bridge flooded, 14 February 2020</b>
+
 <img src="photos/lavertys-bridge-flood.jpg">
+
+## Big is beautiful for family
+
+<img src="photos/big-is-beautiful.jpg">
+
+Daily Examiner
+
+THE DAILY EXAMINER, Monday, October 4, 1993.
+
+Big is beautiful for family
+
+GRAFTON'S Len and Elsie Laverty, (back left) were the surprised centres of attention at a family gathering planned for their 50th wedding anniversary by their 11 children.
+
+Grand-children (from left) Aaron, Jason, Andrew, Alex, Melissa, Andrea and Michael were among the 50-odd Laverty family members celebrating the day. Large families may be old-fash ioned but according to Mrs Laverty, they're a key to happiness. She says her 11 children have kept her young and her marriage healthy.
+
+Now celebrating her 50th wed ding anniversary with her husband Len, she says the couple has always put the children first. Now her children have returned the compliment.
+
+The family, including 22 grand children and one great-grand child, surprised the couple with an anniversary party on Saturday.
+
+About 50 family members travelled to Grafton from as far afield as Queensland and Sydney for the special event.
 
 # Laverty Family Reunions
 
+The Laverty families have occassionaly held family reunion gatherings. I have been to two such reunions, one in Macksville Showground 1989 when I was about 4 years old, and a more recent one in at Grafton on 4th April 2015.
+
 ## Laverty Family Reunion 1989
 
-<img src="photos/reunion-lavertys-came-in-their-hundreds.jpg">
+<img src="photos/laverty-reunion-1989.jpg">
 
 ### Laverty's came in their hundreds
+
+<img src="photos/reunion-lavertys-came-in-their-hundreds.jpg">
 
 Hundreds of descendants of the Laverty
 
@@ -213,6 +246,8 @@ Roy Sanders Street, South West Rocks
 
 ## The McGree Brothers
 
+### War Time Mystery Leads Two Men to Taylors Arm
+
 <img src="photos/war-time-mystery-leads-two-men-to-taylors-arm.jpg">
 
 Official Presentation Brings Search to an End
@@ -232,6 +267,28 @@ The presentation will coincide with another special event in Taylors Arm history
 
 All relatives, friends and interested people are invited to attend this histor ical event. Organisers expect a large attendance of neighbouring sub branch members to witness the occa sion.
 
+### Planning Begins for McGree Photo Presentation
+
+<img src="photos/planning-begins-for-mcgree-photo-presentation.jpg">
+
+Planning begins for McGree photo presentation
+
+The mysterious saga of a photograph taken during World War One has almost reached its heart-warming finale.
+
+Current custodians of the photograph, Melbourne resident David Sandground and Michael Long of England, have spent the past year tracking down its rightful owners - the McGree family of Taylors Arm. And now it is finally coming back to our shores.
+
+Taylors Arm RSL Sub-Branch President Barry Fuller has spoken with David about involving the official presentation of the photograph to the McGree family in the unveiling of the new Taylors Arm cenotaph plaque around September or October.
+
+A small mention of the famous Pub with no Beer was all it took for David to agree, and he is now try ing to get Michael to travel from England to attend the unveiling and presentation.
+
+Taylors Arm's small but hardworking sub-branch are now in the process of up-dating the cenotaph with names of those who served in World War One and Two, and also more recent conflicts.
+
+Following are the names gathered from honour rolls at Taylors Arm and Burrapine halls. Please con tact Barry on 6564 2206 if you know of any names which should be listed.
+
+Taylors Arm Hall: 1914-1918 war - Addison B, Bowie C, Butt O, Carroll TA, Daley CE, Forster SS, Hennessy E, Johnson CD, Lawrence S, McGree MD, McGree JA, McGree PJ, McKay A, McKay N, Sutton JH and Wilkes FAD. 1939-1945 war - McKay T and Weston W.
+
+Burrapine Hall: 1914-1918 war-Addison B, Chelman W, Daley CC and McKay A. 1939-1945 war - McKay N, Smith WA, Thompson H and Ward CD.
+
 <img src="photos/war-mystery001.jpg">
 
 <img src="photos/war-mystery002.jpg">
@@ -240,6 +297,27 @@ All relatives, friends and interested people are invited to attend this histor i
 
 <img src="photos/Michael_mcgree_1889-1918_and_his_sister_ellen.jpg">
 
+### McGree Family Truly Upheld ANZAC Spirit
+
+<img src="photos/mcgree-family-truly-upheld-anzac-spirit.jpg">
+
+McGree family truly upheld ANZAC Spirit
+
+If ANY family understood the sacrifices of ANZAC was the McGrees of Taylors Arm. James and Bridget McGree sent four sons to World War I yet only one came home. How deep and profound must their sorrow have been? There was mourning on both sides of the Tasman for the McGrees as two of their boys were killed action fighting for the New Zealand Expeditionary Force (NZEF).
+
+The Taylors Arm War Memorial situated against serene backdrop of rolling tree covered hills and in children's playground.... stark contrast to bloody battlefields of Gallipoli and Western Front.
+
+The McGree brothers' names are also on cenotaph Bowraville. Patrick Joseph McGree, born 1883, enlisted at Taruheru, Gisborne, and was killed August 8, 1915. He fell Chunuk Bair, the highest point ANZACS reached Gallipoli and where today impressive stone monument records names more than 800 officers men of NZEF who died 1915 and who have known grave, including the brave boy from Taylors Arm.
+
+John Ambrose McGree, born 1892, signed on for duty with Australian Imperial Force just 18 days after Patrick had fallen and left Australia with the Infantry Battalion, 1 Reinforcements, five days after Christmas 1915 aboard HMAT Medic.
+
+The 22-year-old's enlistment papers describe him as fit with "fresh. complexion", good eyesight, 5 feet inches (174 centimetres) tall and 126 pounds (57 kilograms)-in other words, young, lean and keen-ideal attributes for soldier. John stepped ashore Alexandria on March 29, 1916 and then went straight to the front, disembarking Marseilles six days later. Taken on strength into the Battalion at Étaples, John sustained gunshot wounds to the back chest on July 25,1916 and, sadly, died of his wounds the next day. He was buried Warloy-Baillon Military Cemetery in the Somme by war chaplain, Reverend Samuel J Gosling. A heartbroken Mrs McGree wrote to Army Base Records in Melbourne on August 29 asking for details of his death and burial and if anyone knew "what were his last words".
+
+On July 18, 1918, Michael Dennis McGree, born 1890, was killed in action in France whilst fighting for the NZEF and buried in Gommecourt Wood New Cemetery, Foncquevillers. At the time, Michael was reported as missing action. While awaiting news about his fate, McGree fractured a rib in a sulky accident and was taken to Kempsey Hospital. She suffered more pain than mother should bear.
+
+REMEMBERED: The McGree brothers are named on the War Memorials at both Taylors Arm. (top) and Bowraville (below). inscribed
+
+LANDING: The ANZACs at Gabba Tempa 1915
 
 ## Leonard James Laverty
 
@@ -296,6 +374,14 @@ Michael Laverty and Sarah Jane Laverty (McCormick) came to Australia in 1865 on 
 ## Koch Immigration
 
 <img src="photos/peter-anna-francis-triton-manifest.png">
+
+# Births
+
+# Marriages
+
+## Len and Wendy Laverty 1974
+
+<img src="photos/marriage-len-wendy-1974.jpg">
 
 # Deaths
 
