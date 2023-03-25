@@ -463,6 +463,12 @@ witness looked at them on the Saturday and aon Sunday between 5 and 6; there was
 
 ## Alfred Henry Cook and Jessie Elvina Coulter
 
+According to this newspaper article Alfred Henry Cook and Jessie Elvina Coulter ran away together and stole some money from her mum.
+
+They didn't get far because after staying in a hotel together they were promptly arrested the following morning.
+
+The father was asked to drop the case but refused and took Alfred to trial.
+
 <table>
 <tr><td><img src="photos/alfred-henry-cook-2.jpg" height=500px></td><td><img src="photos/jessie_alvina_coulter_cook.jpg" height=500px></td></tr>
 </table>
