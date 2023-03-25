@@ -59,19 +59,23 @@ title: Alex Laverty Family History Book
     - [Leonard James Laverty](#leonard-james-laverty)
     - [Denis Michael Laverty - Died 26th August, 1961](#denis-michael-laverty---died-26th-august-1961)
 - [List of Graves](#list-of-graves)
-    - [Leonard James Laverty and Elsie Pearl Laverty nee McGree](#leonard-james-laverty-and-elsie-pearl-laverty-nee-mcgree)
-    - [Denis Laverty 1920 and Nora Laverty nee Goldspring 1944](#denis-laverty-1920-and-nora-laverty-nee-goldspring-1944)
-    - [Peter James McGree](#peter-james-mcgree)
-    - [Ethel Stella Cook McGree](#ethel-stella-cook-mcgree)
-    - [James & Bridget McGree nee Sullivan](#james--bridget-mcgree-nee-sullivan)
-    - [Alfred Henry Cook and Jessie Elvina Cook nee Coulter](#alfred-henry-cook-and-jessie-elvina-cook-nee-coulter)
-    - [Michael Laverty and Sarah Jane Laverty nee McCormick](#michael-laverty-and-sarah-jane-laverty-nee-mccormick)
+    - [Bowraville Cemetery](#bowraville-cemetery)
+        - [Denis Laverty 1920 and Nora Laverty nee Goldspring 1944](#denis-laverty-1920-and-nora-laverty-nee-goldspring-1944)
+        - [Alfred Henry Cook and Jessie Elvina Cook nee Coulter](#alfred-henry-cook-and-jessie-elvina-cook-nee-coulter)
+    - [Clarence Lawn Cemetery](#clarence-lawn-cemetery)
+        - [Leonard James Laverty and Elsie Pearl Laverty nee McGree](#leonard-james-laverty-and-elsie-pearl-laverty-nee-mcgree)
+    - [Macksville Cemetery](#macksville-cemetery)
+        - [Peter James McGree](#peter-james-mcgree)
+        - [Ethel Stella Cook McGree](#ethel-stella-cook-mcgree)
+        - [James & Bridget McGree nee Sullivan](#james--bridget-mcgree-nee-sullivan)
+    - [Kempsey West Cemetery](#kempsey-west-cemetery)
+        - [Michael Laverty and Sarah Jane Laverty nee McCormick](#michael-laverty-and-sarah-jane-laverty-nee-mccormick)
 
 <!-- /TOC -->
 
 # Introduction
 
-The information will mainly focus around the descendants and ancestors of my paternal grand parents, Leonard James Laverty and Elsie Pearl McGree.
+The information listed here will mainly focus around the descendants and ancestors of my paternal grand parents, Leonard James Laverty and Elsie Pearl McGree.
 
 <img src="photos/leonard-elsie-black-white.jpg">
 
@@ -85,24 +89,34 @@ The clan motto is Fortuna Favet Fortibus, or “Fortune Favours the Brave”. Th
 
 <img src="photos/laverty-coat-of-arms-fourtune-favours-the-brave.jpg">
 
-
 # Alex Laverty Ancestry.com DNA Ethnicity Estimate
 
 ## Ethnicity Estimate
 
-I did an Ancestry.com DNA test and it came back with the following ethnicity estimates :
+I did an Ancestry.com DNA test and it came back with the following ethnicity estimates, I've noticed though that these numbers are subject to change as Ancestry.com gathers more DNA test data and refines the results.
 
 <img src="photos/alex-laverty-ethnicity-estimate.png">
 
+|Location|Percentage|
+|---|---|
+|Ireland|47%|
+|England & Northerwestern Europe|28%|
+|Scotland|16%|
+|Wales|7%|
+|Norway|1%|
+|Germanic Europe|1%|
+
 ## Ethnicity Estimate by Parent
 
-This chart shows the percentages of each ethnicity you inherited from your parents.
+This chart shows the percentages of each ethnicity I inherited from my parents.
 
 Added together, the percents from each parent for a region equals your percent for that region.
 
 <img src="photos/alex-laverty-ethnicity-estimate-detailed-comparison.png">
 
 ## Ancestors Family Tree
+
+This is my paternal family tree
 
 <img src="photos/laverty-pedigree.png">
 
@@ -656,30 +670,46 @@ E. J. DWYER
 
 # List of Graves
 
-## Leonard James Laverty and Elsie Pearl Laverty nee McGree
+## Bowraville Cemetery
 
-<img src="photos/leonard-james-laverty-elsie-pearl-mcgree-grave.jpg">
+> Gumbayngirr Rd, South Arm NSW 2449
 
-## Denis Laverty 1920 and Nora Laverty nee Goldspring 1944
+### Denis Laverty 1920 and Nora Laverty nee Goldspring 1944
 
 <img src="photos/denis-and-nora-laverty-grave.jpg">
 
-## Peter James McGree
-
-<img src="photos/peter-james-mcgree-burial.jpg">
-
-## Ethel Stella Cook (McGree)
-
-<img src="photos/ethel-stella-cook-mcgree-burial.jpg">
-
-## James & Bridget McGree nee Sullivan
-
-<img src="photos/James & Bridget McGree nee Sullivan Headstone.jpg">
-
-## Alfred Henry Cook and Jessie Elvina Cook nee Coulter
+### Alfred Henry Cook and Jessie Elvina Cook nee Coulter
 
 <img src="photos/alfred-henry-cook-grave.jpg">
 
-## Michael Laverty and Sarah Jane Laverty nee McCormick
+## Clarence Lawn Cemetery
+
+> 703 Armidale Rd, Braunstone NSW 2460
+
+### Leonard James Laverty and Elsie Pearl Laverty nee McGree
+
+<img src="photos/leonard-james-laverty-elsie-pearl-mcgree-grave.jpg">
+
+## Macksville Cemetery
+
+> Wallace Street, Macksville, NSW 2447
+
+### Peter James McGree
+
+<img src="photos/peter-james-mcgree-burial.jpg">
+
+### Ethel Stella Cook (McGree)
+
+<img src="photos/ethel-stella-cook-mcgree-burial.jpg">
+
+### James & Bridget McGree nee Sullivan
+
+<img src="photos/James & Bridget McGree nee Sullivan Headstone.jpg">
+
+## Kempsey West Cemetery
+
+> Broughton Street, Kempsey, NSW 2440
+
+### Michael Laverty and Sarah Jane Laverty nee McCormick
 
 <img src="photos/michael-and-sarah-laverty-grave.jpg">
