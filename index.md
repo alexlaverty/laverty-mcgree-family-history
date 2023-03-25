@@ -64,7 +64,11 @@ title: Alex Laverty Family History Book
 
 # Introduction
 
-This is my attempt at putting together a history of my family, with so much information it's hard to figure out how to structure it and in what order, so I will start with myself and work my way up, the information will mainly focus around the descendants and ancenstors of my paternal grand parents, Leonard James Laverty and Elsie Pearl McGree.
+This is my attempt at putting together a history of my family, with so much information it's hard to figure out how to structure it and in what order, so I will start with myself and work my way up.
+
+The information will mainly focus around the descendants and ancestors of my paternal grand parents, Leonard James Laverty and Elsie Pearl McGree.
+
+<img src="photos/leonard-elsie-black-white.jpg">
 
 # Alex Laverty Ancestry.com DNA Ethnicity Estimate
 
@@ -88,7 +92,27 @@ Added together, the percents from each parent for a region equals your percent f
 
 My grandparents Leonard James Laverty and Elsie Pearl McGree lived on a farm in Taylors Arm and had 11 children, 6 boys and 5 girls.
 
+<img src="photos/laverty-family-group-photo.jpg">
+
 The farm was a dairy farm and dad would have to get up early to milk the cows.
+
+Some photos from the farm :
+
+Len and Leonard in front of a car
+
+<img src="photos/len-leonard-car.jpg">
+
+Leonard, Eileen, Greg, Len and Horse
+
+<img src="photos/laverty-farm-Dad-Eileen-Greg-Len.jpg">
+
+Elsie, Tom and Mary possibly picking potatoes
+
+<img src="photos/laverty-farm-MumLaverty-Tom-Mary.jpg">
+
+Family trip to the Beach, probably Nambucca Heads
+
+<img src="photos/leonard-greg-len-eileen-elsie.jpg">
 
 This is what the house on the farm looks like today
 
