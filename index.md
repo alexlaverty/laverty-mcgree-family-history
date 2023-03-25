@@ -48,12 +48,13 @@ title: Alex Laverty Family History Book
     - [Leonard James Laverty](#leonard-james-laverty)
     - [Denis Michael Laverty - Died 26th August, 1961](#denis-michael-laverty---died-26th-august-1961)
 - [List of Graves](#list-of-graves)
-    - [Peter James McGree](#peter-james-mcgree)
-    - [Alfred Henry Cook and Jessie Elvina Cook nee Coulter](#alfred-henry-cook-and-jessie-elvina-cook-nee-coulter)
-    - [Ethel Stella Cook McGree](#ethel-stella-cook-mcgree)
     - [Leonard James Laverty and Elsie Pearl Laverty nee McGree](#leonard-james-laverty-and-elsie-pearl-laverty-nee-mcgree)
-    - [Michael Laverty and Sarah Jane Laverty nee McCormick](#michael-laverty-and-sarah-jane-laverty-nee-mccormick)
+    - [Denis Laverty 1920 and Nora Laverty nee Goldspring 1944](#denis-laverty-1920-and-nora-laverty-nee-goldspring-1944)
+    - [Peter James McGree](#peter-james-mcgree)
+    - [Ethel Stella Cook McGree](#ethel-stella-cook-mcgree)
     - [James & Bridget McGree nee Sullivan](#james--bridget-mcgree-nee-sullivan)
+    - [Alfred Henry Cook and Jessie Elvina Cook nee Coulter](#alfred-henry-cook-and-jessie-elvina-cook-nee-coulter)
+    - [Michael Laverty and Sarah Jane Laverty nee McCormick](#michael-laverty-and-sarah-jane-laverty-nee-mccormick)
 
 <!-- /TOC -->
 
@@ -557,26 +558,30 @@ E. J. DWYER
 
 # List of Graves
 
+## Leonard James Laverty and Elsie Pearl Laverty nee McGree
+
+<img src="photos/leonard-james-laverty-elsie-pearl-mcgree-grave.jpg">
+
+## Denis Laverty 1920 and Nora Laverty nee Goldspring 1944
+
+<img src="photos/denis-and-nora-laverty-grave.jpg">
+
 ## Peter James McGree
 
 <img src="photos/peter-james-mcgree-burial.jpg">
-
-## Alfred Henry Cook and Jessie Elvina Cook nee Coulter
-
-<img src="photos/alfred-henry-cook-grave.jpg">
 
 ## Ethel Stella Cook (McGree)
 
 <img src="photos/ethel-stella-cook-mcgree-burial.jpg">
 
-## Leonard James Laverty and Elsie Pearl Laverty nee McGree
+## James & Bridget McGree nee Sullivan
 
-<img src="photos/leonard-james-laverty-elsie-pearl-mcgree-grave.jpg">
+<img src="photos/James & Bridget McGree nee Sullivan Headstone.jpg">
+
+## Alfred Henry Cook and Jessie Elvina Cook nee Coulter
+
+<img src="photos/alfred-henry-cook-grave.jpg">
 
 ## Michael Laverty and Sarah Jane Laverty nee McCormick
 
 <img src="photos/michael-and-sarah-laverty-grave.jpg">
-
-## James & Bridget McGree nee Sullivan
-
-<img src="photos/James & Bridget McGree nee Sullivan Headstone.jpg">
