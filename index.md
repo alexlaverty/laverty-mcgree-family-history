@@ -3,6 +3,7 @@ output:
   html_document:
     css: styles.css
 title: Alex Laverty Family History Book
+
 ---
 
 # Table of Contents
@@ -21,6 +22,8 @@ title: Alex Laverty Family History Book
         - [Laverty re-union](#laverty-re-union)
         - [Laverty reunion](#laverty-reunion)
 - [World War II](#world-war-ii)
+    - [The McGree Brothers](#the-mcgree-brothers)
+    - [Leonard James Laverty](#leonard-james-laverty)
 - [The McGree Family](#the-mcgree-family)
     - [Peter James McGree](#peter-james-mcgree)
 - [The Koch Family](#the-koch-family)
@@ -28,7 +31,9 @@ title: Alex Laverty Family History Book
 - [Immigration to Australia](#immigration-to-australia)
     - [Laverty Immigration](#laverty-immigration)
     - [Koch Immigration](#koch-immigration)
-- [Obituaries](#obituaries)
+- [Deaths](#deaths)
+    - [Elsie Pearl Laverty McGree Eulogy](#elsie-pearl-laverty-mcgree-eulogy)
+    - [Leonard James Laverty](#leonard-james-laverty)
     - [Denis Michael Laverty - Died 26th August, 1961](#denis-michael-laverty---died-26th-august-1961)
 - [List of Graves](#list-of-graves)
     - [Peter James McGree](#peter-james-mcgree)
@@ -200,11 +205,39 @@ Roy Sanders Street, South West Rocks
 
 # World War II
 
-There were a few family who went off to world war II.
+## The McGree Brothers
+
+<img src="photos/war-time-mystery-leads-two-men-to-taylors-arm.jpg">
+
+Official Presentation Brings Search to an End
+Regular readers of the Mid-Coast Observer may remember a number of articles on two photographs taken during World War One of brothers Patrick and John McGree.
+
+The search for identity of the brothers led two men - Michael Long from England and Melbourne's David Sandground - on a world-wide search, eventually ending in the small farming village of Taylors Arm.
+
+Two stories were run in this paper, asking anyone who knew the identity of the young men to come forward. And it worked.
+
+The two men received numerous calls from people who were related to, or knew of the McGree boys. Taylors Arm Sub-Branch members also offered their assistance.
+
+And on October 3, the photographs will take their rightful place during an official presentation to be held at noon.
+
+Taylors Arm Sub-Branch members are now completing arrangements for Mr Sandground to hand over these unique pieces of wartime history to members of the McGree family.
+
+The presentation will coincide with another special event in Taylors Arm history - the unveiling and dedication of a plaque to those who gave their lives to our country.
+
+All relatives, friends and interested people are invited to attend this histor ical event. Organisers expect a large attendance of neighbouring sub branch members to witness the occa sion.
+
+<img src="photos/war-mystery001.jpg">
+
+<img src="photos/war-mystery002.jpg">
 
 <b>Peter James McGree and his sister Ellen</b>
 
 <img src="photos/Michael_mcgree_1889-1918_and_his_sister_ellen.jpg">
+
+
+## Leonard James Laverty
+
+
 
 # The McGree Family
 
@@ -258,7 +291,98 @@ Michael Laverty and Sarah Jane Laverty (McCormick) came to Australia in 1865 on 
 
 <img src="photos/peter-anna-francis-triton-manifest.png">
 
-# Obituaries
+# Deaths
+
+## Elsie Pearl Laverty (McGree) Eulogy
+
+EULOGY
+Today as we remember and give thanks for the life of our mother, it is impossible to remember her without mentioning our father also.
+
+Throughout the 54 years of their married life, they were totally committed to each other and their children -they prayed together every night of those 54 years.
+
+This was a tremendous source of grace to them- and to each of their 11 children.
+
+Since the death of my father-four years ago-my mother experienced her own personal brokenness, from which she never really fully recovered.
+
+Like Mary, the mother of Jesus, my mother was a gentle woman of Taith, one who pondered many things in her heart..
+
+In a group, she was generally quiet, reserved and discreet in her conversations.
+
+"She was gifted with tremendous goodness and generosity.She played an important role in the ministry at 211 Dobie St. where for the last eight years she cooked many wonderful cakes, pies and biscuits for the inmates at the correctional centre and their families when they came to visit .On Tuesday, as I thanked her for all she had done, she responded by saying, "I loved doing it"...
+
+Her greatest love was for her family.
+
+Her husband, children, grandchildren and greatgrand children
+
+meant everything to her.
+
+She has left behind her, 11 unfinished masterpieces in her children and I'm sure she would envisage that her children would continue the legacy she and my father instilled in us during their parenting,
+
+Love is patient, love is kind. It is not jealous...It is not rude, it does not seek its own interests-It bears all things, hopes all things, endures all things... Love never fails..
+
+May she rest in peace.
+
+
+## Leonard James Laverty
+
+<img src="photos/leonard-laverty-eulogy01.jpg">
+
+<img src="photos/leonard-laverty-eulogy02.jpg">
+
+EULOGY
+Leonard James Laverty, the son of Dennis and Nora Laverty, was gifted with life on 10th October, 1911.
+
+Sixty-eight years of his life, was spent on the family farm at Taylors Arm on the Nambucca River. It was during his many years of being close to the earth that he developed a deep respect and love for the land, for nature and life itself...
+
+Dad was the first to introduce us to God as the Giver of Life...
+
+He used our life experiences, the plants and animals to open up for us the meaning of life, birth, growth and death.
+
+He enabled us to become aware of the place of gentleness, patience and hope in
+
+dealing with life around us and with ourselves.
+
+My father lived a simple and unpretentious kind of life he worked with dignity and effort, always treating others honestly and generously. For many years, when we lived in Taylor's Arm, my father took great pride in his vegetable garden. He was very generous in sharing the fruits of his labours with others and was sensitive to those less fortunate than himself.
+
+On many occasions, we recall, taking vegetables, fruit, farm produce to school for
+
+the Sisters at the Macksville convent and also for our Parish Priest. Our understanding and awareness of our oneness with others developed from the generosity shown by Dad.
+
+At the age of 19, in 1930, my father joined two of his brothers and formed a "Laverty's Band". This band proved to be very popular at a lot of dances and balls on the Nambucca River which included Bowraville, Missabotti. Talarm,
+
+Utungan, Burrapine, South Arm and the surrounding areas. Dad was very versatile in the band - on some occasions he accompanied his
+
+brother Denny - a violinist - by vamping on the plano....
+
+His official capacity in the band was as a competent drummer; soloist and MC. He also entertained the audience with a "flexi-tone" for waltzes and a "swance whistle" which is similar to a slide trombone.
+
+Dad's love of music was evident in our family life. Many family gatherings, outings and reunions saw my father entertaining the relatives and friends with recitals on the mouth organ, the piano accordian, Jew's harp. I recall when he was rostered with my mother on the church cleaning at Taylor's Arm- Mum always cared for the Altar, the linen and flowers. Dad's job was to clean the body of the Church. He quickly moved through the Church (without lifting or moving any furniture) - then he serenaded to Mum on the organ - playing all his old favourites....
+
+I think it would be true to say his favourite instruments were the spoons... (he often played the spoons whilst we waited for dessert to be served - much to Mum's
+
+horror!!) Throughout our family life, we have been blessed to have Dad always there for us.
+
+Together, as a family, we have worked through times of grief, brokenness, and the
+
+pain of separation in relationships. There have been some occasions when my father struggled with his desires and expectations for his children. He sometimes found his values and beliefs differed
+
+from his childrens...
+
+But, having the openness and freedom within himself to work through this struggle, he came to accept the uniqueness and differences in his eleven children. He was able to give them the space and time to follow their own direction in
+
+life....continue to love them and be there for them. We will always remember Dad for his wonderful sense of humour...
+
+In December 1992, we buried Dad's last brother, John, and afterwards as we shared a cup of tea, many people spoke to Dad, offering their sympathy and several asked Dad if "he was the last in the family" - to which Dad said "Yes" - and they replied. "Well, you take very good care of yourself, Len". Later I came along to sit with him for awhile and he commented on what people had said to him. I said, well how do you feel Dad, being the last one in the family? He replied - I feel like an "endangered species!! I must add he used to play on being an "endangered species" when Mum wanted some jobs done around the house....!
+
+Only recently, on Monday 2nd June, Dad and I were at the doctors surgery. waiting for our turn... Dad turned to and remarked. "You know you can die of old age, waiting at the doctor's ...." and on another occasion he commented. "You could catch six diseases and get over them while you're waiting here.."
+
+Being a great man of deep faith, his greatest love has been for His God and his Church. His loving relationship with his maker, has been evident in his. faithfulness in praying the rosary, receiving the Sacraments and His living of the Word. Being in communion with his God, enabled Dad to be in a state of readiness when the Son of Man invited him to
+
+"Come, you whom my Father has blessed, take for your heritage, the kingdom prepared for you since the foundation of the world.
+
+May He rest in peace...
+
+(Matt 25-34)
 
 ## Denis Michael Laverty - Died 26th August, 1961
 
