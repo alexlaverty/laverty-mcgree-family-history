@@ -53,10 +53,16 @@ Which according to the Taylors Arm Community facebook group occassionaly floods 
 
 There were a few family who went off to world war II.
 
+## World War II
+
+<b>Peter James McGree and his sister Ellen</b>
+
+<img src="photos/Michael_mcgree_1889-1918_and_his_sister_ellen.jpg">
 
 # List of Graves
 
 ## Peter James McGree
+
 <img src="photos/peter-james-mcgree-burial.jpg">
 
 ## Alfred Henry Cook and Jessie Elvina Cook (Coulter)
@@ -66,3 +72,11 @@ There were a few family who went off to world war II.
 ## Ethel Stella Cook (McGree)
 
 <img src="photos/ethel-stella-cook-mcgree-burial.jpg">
+
+## Leonard James Laverty and Elsie Pearl Laverty (McGree)
+
+<img src="photos/leonard-james-laverty-elsie-pearl-mcgree-grave.jpg">
+
+## Michael Laverty and Sarah Jane Laverty (McCormick)
+
+<img src="photos/michael-and-sarah-laverty-grave.jpg">
