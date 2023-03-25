@@ -12,6 +12,9 @@ title: Alex Laverty Family History Book
 
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
+- [Alex Laverty Ancestry.com DNA Ethnicity Estimate](#alex-laverty-ancestrycom-dna-ethnicity-estimate)
+    - [Ethnicity Estimate](#ethnicity-estimate)
+    - [Detailed Comparison of](#detailed-comparison-of)
     - [Ancestors Family Tree](#ancestors-family-tree)
 - [Laverty Farm in Taylors Arm](#laverty-farm-in-taylors-arm)
 - [The Pub with No Beer](#the-pub-with-no-beer)
@@ -32,6 +35,7 @@ title: Alex Laverty Family History Book
         - [Planning Begins for McGree Photo Presentation](#planning-begins-for-mcgree-photo-presentation)
         - [McGree Family Truly Upheld ANZAC Spirit](#mcgree-family-truly-upheld-anzac-spirit)
     - [Leonard James Laverty](#leonard-james-laverty)
+        - [Leonard James Laverty enlistment form](#leonard-james-laverty-enlistment-form)
 - [The McGree Family](#the-mcgree-family)
     - [Peter James McGree](#peter-james-mcgree)
 - [The Koch Family](#the-koch-family)
@@ -61,6 +65,20 @@ title: Alex Laverty Family History Book
 # Introduction
 
 This is my attempt at putting together a history of my family, with so much information it's hard to figure out how to structure it and in what order, so I will start with myself and work my way up, the information will mainly focus around the descendants and ancenstors of my paternal grand parents, Leonard James Laverty and Elsie Pearl McGree.
+
+# Alex Laverty Ancestry.com DNA Ethnicity Estimate
+
+## Ethnicity Estimate
+
+<img src="photos/alex-laverty-ethnicity-estimate.png">
+
+## Ethnicity Estimate by Parent
+
+This chart shows the percentages of each ethnicity you inherited from your parents.
+
+Added together, the percents from each parent for a region equals your percent for that region.
+
+<img src="photos/alex-laverty-ethnicity-estimate-detailed-comparison.png">
 
 ## Ancestors Family Tree
 
@@ -351,7 +369,11 @@ LANDING: The ANZACs at Gabba Tempa 1915
 
 <img src="photos/leonard-laverty-1940.jpg">
 
-https://recordsearch.naa.gov.au/
+### Leonard James Laverty enlistment form
+
+source - https://recordsearch.naa.gov.au/
+
+Contents date range - 1939 - 1948
 
 <img src="photos/leonard-james-laverty-war.jpg">
 
@@ -369,7 +391,9 @@ https://recordsearch.naa.gov.au/
 
 ## Peter James McGree
 
-Macksville Railway Station early 1920. Jim (James) Gaddes ready to unload a cart of broom millet brought from Taylors Arm and grown by Albert Cordell on Jim Wards property later to be owned by Tom Mulvhill. Pictured are left to right Jim Gaddes, Peter McGree and Albert Cordell.
+Macksville Railway Station early 1920. Jim (James) Gaddes ready to unload a cart of broom millet brought from Taylors Arm and grown by Albert Cordell on Jim Wards property later to be owned by Tom Mulvhill.
+
+Pictured are left to right Jim Gaddes, Peter McGree and Albert Cordell.
 
 <img src="photos/Peter-James-McGree-bullocks-macksville-railway-station-1920.jpg">
 
