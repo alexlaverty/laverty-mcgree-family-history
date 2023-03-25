@@ -2,9 +2,39 @@
 output:
   html_document:
     css: styles.css
+title: Alex Laverty Family History Book
 ---
 
-<h1>Alex Laverty Family History Book</h1>
+# Table of Contents
+
+<!-- TOC -->
+
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Laverty Farm in Taylors Arm](#laverty-farm-in-taylors-arm)
+- [The Pub with No Beer](#the-pub-with-no-beer)
+- [Lavertys Bridge](#lavertys-bridge)
+- [Laverty Family Reunion 1989](#laverty-family-reunion-1989)
+- [World War II](#world-war-ii)
+- [Peter James McGree](#peter-james-mcgree)
+- [Koch's](#kochs)
+- [The Cooks of Stuarts Point](#the-cooks-of-stuarts-point)
+- [Immigration to Australia](#immigration-to-australia)
+- [Obituaries](#obituaries)
+    - [Denis Michael Laverty - Died 26th August, 1961](#denis-michael-laverty---died-26th-august-1961)
+- [List of Graves](#list-of-graves)
+    - [Peter James McGree](#peter-james-mcgree)
+    - [Alfred Henry Cook and Jessie Elvina Cook nee Coulter](#alfred-henry-cook-and-jessie-elvina-cook-nee-coulter)
+    - [Ethel Stella Cook McGree](#ethel-stella-cook-mcgree)
+    - [Leonard James Laverty and Elsie Pearl Laverty nee McGree](#leonard-james-laverty-and-elsie-pearl-laverty-nee-mcgree)
+    - [Michael Laverty and Sarah Jane Laverty nee McCormick](#michael-laverty-and-sarah-jane-laverty-nee-mccormick)
+
+<!-- /TOC -->
+
+# Introduction
+
+
+# Laverty Farm in Taylors Arm
 
 My grandparents Leonard James Laverty and Elsie Pearl McGree lived on a farm in Taylors Arm and had 11 children, 6 boys and 5 girls.
 
@@ -14,12 +44,6 @@ This is what the house on the farm looks like today
 
 <img src="photos/laverty_farm.jpg">
 
-Dad said that when he was a kid he would walk to school without any shoes and occassionaly they'd go out and shoot parrots for dinner.
-
-<b>Gerry Laverty</a>
-<img src="photos/gerry-laverty-boy.jpg">
-
-
 They sold the farm around INSERT_YEAR and these days it has been subdivided into 3 seperate plots.
 
 This is an aerial photo of the farm from google maps
@@ -27,6 +51,8 @@ This is an aerial photo of the farm from google maps
 <b>2343 Taylors Arm Rd</b>
 
 <img src="photos/laverty-farm-google-maps.png">
+
+# The Pub with No Beer
 
 The Laverty farm is down the road from the famous "Pub With No Beer",
 
@@ -42,6 +68,8 @@ When his friend Slim Dusty recorded the song in 1957, it became an Australian ch
 
 <b>Slim Dusty</b>
 <img src="photos/slim-dusty-pub-with-no-beer.jpg">
+
+# Lavertys Bridge
 
 In Taylors Arm is also the Laverty's Bridge.
 
@@ -59,14 +87,14 @@ Which according to the Taylors Arm Community facebook group occassionaly floods 
 
 There were a few family who went off to world war II.
 
-## World War II
+# World War II
 
 <b>Peter James McGree and his sister Ellen</b>
 
 <img src="photos/Michael_mcgree_1889-1918_and_his_sister_ellen.jpg">
 
 
-## Peter James McGree
+# Peter James McGree
 
 Macksville Railway Station early 1920. Jim (James) Gaddes ready to unload a cart of broom millet brought from Taylors Arm and grown by Albert Cordell on Jim Wards property later to be owned by Tom Mulvhill. Pictured are left to right Jim Gaddes, Peter McGree and Albert Cordell.
 
@@ -74,7 +102,7 @@ Macksville Railway Station early 1920. Jim (James) Gaddes ready to unload a cart
 
 # Koch's
 
-## The Cooks of Stuarts Point
+# The Cooks of Stuarts Point
 
 <img src="photos/the-cooks-of-stuarts-point.jpg">
 
@@ -151,7 +179,7 @@ E. J. DWYER
 
 <img src="photos/peter-james-mcgree-burial.jpg">
 
-## Alfred Henry Cook and Jessie Elvina Cook (Coulter)
+## Alfred Henry Cook and Jessie Elvina Cook nee Coulter
 
 <img src="photos/alfred-henry-cook-grave.jpg">
 
@@ -159,14 +187,13 @@ E. J. DWYER
 
 <img src="photos/ethel-stella-cook-mcgree-burial.jpg">
 
-## Leonard James Laverty and Elsie Pearl Laverty (McGree)
+## Leonard James Laverty and Elsie Pearl Laverty nee McGree
 
 <img src="photos/leonard-james-laverty-elsie-pearl-mcgree-grave.jpg">
 
-## Michael Laverty and Sarah Jane Laverty (McCormick)
+## Michael Laverty and Sarah Jane Laverty nee McCormick
 
 <img src="photos/michael-and-sarah-laverty-grave.jpg">
 
-## James McGree and  Bridget McGree (Sullivan)
 
 <img src="photos/James & Bridget McGree nee Sullivan Headstone.jpg">
