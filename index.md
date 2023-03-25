@@ -64,8 +64,6 @@ title: Alex Laverty Family History Book
 
 # Introduction
 
-This is my attempt at putting together a history of my family, with so much information it's hard to figure out how to structure it and in what order, so I will start with myself and work my way up.
-
 The information will mainly focus around the descendants and ancestors of my paternal grand parents, Leonard James Laverty and Elsie Pearl McGree.
 
 <img src="photos/leonard-elsie-black-white.jpg">
