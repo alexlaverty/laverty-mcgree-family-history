@@ -41,10 +41,15 @@ title: Alex Laverty Family History Book
 - [The Koch Family](#the-koch-family)
     - [German Ancestry](#german-ancestry)
     - [The Cooks of Stuarts Point](#the-cooks-of-stuarts-point)
+        - [John Cook Reports Stolen Grog](#john-cook-reports-stolen-grog)
+        - [John Peter Cook Death Certificate](#john-peter-cook-death-certificate)
+    - [Alfred Henry Cook and Jessie Elvina Coulter](#alfred-henry-cook-and-jessie-elvina-coulter)
 - [Immigration to Australia](#immigration-to-australia)
     - [Laverty Immigration](#laverty-immigration)
     - [Koch Immigration](#koch-immigration)
 - [Births](#births)
+    - [Harry Benson Laverty 2016](#harry-benson-laverty-2016)
+    - [Jackson Lawrence Laverty 2019](#jackson-lawrence-laverty-2019)
 - [Marriages](#marriages)
     - [Len and Wendy Laverty 1974](#len-and-wendy-laverty-1974)
 - [Deaths](#deaths)
@@ -445,9 +450,19 @@ This gives a little insight to conditions at Stuart's Point in the 19th century.
 
 Peter died in 1909 and his death is recorded in an article from a local newspaper at the time which states he was a very old colo nist It continues "Peter Cook who died at his residence at Stuart's Point on Friday night last week. The deceased gentleman was well-known not only in the Maclery District, but also the Nambucca and Bellinger. He succumbed to heart failure following kidney disease and his death was rather sadden No one in the vicinity of Stuart's Point was more highly respected than "Grandfather Cook" as he was affectionately termed by both young and old. A Native of Germany the late Mr. Cook was 84 years of age, but he was in all respects except in regard to place of birth an Australian, as he had resided in NSW for nearly 60 years and was intintensely proud of his adopted land. Deceased was
 
-John Peter Cook Death Certificate
+### John Cook Reports Stolen Grog
+
+<img src="photos/peter-cook-stolen-grog.jpg">
+
+John P. Cook, caretaker at the wharf, deposed that the goods were kept locked up in the store; there were casks of grog there, which were consigned to Mr Dan Guiney;
+witness looked at them on the Saturday and aon Sunday between 5 and 6; there was nothing wrong then; about 10 or 11 on Monday morning he went down to the store and found some boards had been removed; on unlocking the door and going inside he found one of the casks pulled away from where it had stood, and a case had been shifted; a hole had been bored in teh cask; he shook it, there was a smell, but he did not know what it was; had to shove teh cask and roll it along the best way he could; he never had his hand on it until he found the hole in it; was there when it was put in the store.
+
+### John Peter Cook Death Certificate
 
 <img src="photos/john-peter-cook-death-certificate.jpg">
+
+## Alfred Henry Cook and Jessie Elvina Coulter
+
 
 # Immigration to Australia
 
@@ -472,6 +487,14 @@ Michael Laverty and Sarah Jane Laverty (McCormick) came to Australia in 1865 on 
 <img src="photos/peter-anna-francis-triton-manifest.png">
 
 # Births
+
+## Harry Benson Laverty 2016
+
+<img src="photos/harry-manly-hospital.JPG">
+
+## Jackson Lawrence Laverty 2019
+
+<img src="photos/jackson-northern-beaches-hospital.jpg">
 
 # Marriages
 
