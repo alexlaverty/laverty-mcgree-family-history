@@ -12,6 +12,7 @@ title: Alex Laverty Family History Book
 
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
+    - [The Laverty Surname](#the-laverty-surname)
 - [Alex Laverty Ancestry.com DNA Ethnicity Estimate](#alex-laverty-ancestrycom-dna-ethnicity-estimate)
     - [Ethnicity Estimate](#ethnicity-estimate)
     - [Ethnicity Estimate by Parent](#ethnicity-estimate-by-parent)
@@ -36,6 +37,7 @@ title: Alex Laverty Family History Book
         - [McGree Family Truly Upheld ANZAC Spirit](#mcgree-family-truly-upheld-anzac-spirit)
     - [Leonard James Laverty](#leonard-james-laverty)
         - [Leonard James Laverty enlistment form](#leonard-james-laverty-enlistment-form)
+    - [War Memorials](#war-memorials)
 - [The McGree Family](#the-mcgree-family)
     - [Peter James McGree](#peter-james-mcgree)
 - [The Koch Family](#the-koch-family)
@@ -73,9 +75,22 @@ The information will mainly focus around the descendants and ancestors of my pat
 
 <img src="photos/leonard-elsie-black-white.jpg">
 
+## The Laverty Surname
+
+Laverty is the anglicized form of an old Irish name written as “Ua Flaithbertach” (nominative) or “Ua Flaithbertaig” (genitive) in Old Irish and Middle Irish texts.
+
+It is the name of one of the major native Irish clans, whose lineage derives from the Irish royal families. The surname is commonly translated as “bright ruler” or more correctly “bright prince”, flaith originally meaning prince in Irish. “O” or Ó comes from Ua, designating “grandson” or “descendant” of a (major) clan member. The prefix is often anglicised to O', using an apostrophe instead of the Irish síneadh fada. There are many incarnations of the original Irish name, including Flaherty, Flaharty, Fleharty, Flahrity, Fluharty, Flaverty, Faherty, Feherty, Fairty. Laverty and Lafferty are the Ulster forms of the Connacht name.
+
+The clan motto is Fortuna Favet Fortibus, or “Fortune Favours the Brave”. The O'Flaherty coat of arms depicts 'two red lions rampant combatant, supporting a red dexter hand, couped at the wrists, in base a black boat with eight oars'. However there is little known of Irish heraldic tradition as compared to that of the English although Irish use of distinctive flags and banners in battle is recorded in Irish annals.
+
+<img src="photos/laverty-coat-of-arms-fourtune-favours-the-brave.jpg">
+
+
 # Alex Laverty Ancestry.com DNA Ethnicity Estimate
 
 ## Ethnicity Estimate
+
+I did an Ancestry.com DNA test and it came back with the following ethnicity estimates :
 
 <img src="photos/alex-laverty-ethnicity-estimate.png">
 
@@ -121,7 +136,7 @@ This is what the house on the farm looks like today
 
 <img src="photos/laverty_farm.jpg">
 
-They sold the farm around INSERT_YEAR and these days it has been subdivided into 3 seperate plots.
+They sold the farm and these days it has been subdivided into 3 seperate plots.
 
 This is an aerial photo of the farm from google maps
 
@@ -144,6 +159,7 @@ Country singer Gordon Parsons adapted the song to "A Pub With No Beer", basing i
 When his friend Slim Dusty recorded the song in 1957, it became an Australian chart-topper.
 
 <b>Slim Dusty</b>
+
 <img src="photos/slim-dusty-pub-with-no-beer.jpg">
 
 # Lavertys Bridge
@@ -162,6 +178,8 @@ Which according to the Taylors Arm Community facebook group occassionaly floods 
 
 ## Big is beautiful for family
 
+The Laverty families were large in size, generations of Laverty's with 10 kids per family was not uncommon.
+
 <img src="photos/big-is-beautiful.jpg">
 
 Daily Examiner
@@ -172,7 +190,7 @@ Big is beautiful for family
 
 GRAFTON'S Len and Elsie Laverty, (back left) were the surprised centres of attention at a family gathering planned for their 50th wedding anniversary by their 11 children.
 
-Grand-children (from left) Aaron, Jason, Andrew, Alex, Melissa, Andrea and Michael were among the 50-odd Laverty family members celebrating the day. Large families may be old-fash ioned but according to Mrs Laverty, they're a key to happiness. She says her 11 children have kept her young and her marriage healthy.
+Grand-children (from left) Aaron, Jason, Andrew, Alex, Melissa, Andrea and Michael were among the 50-odd Laverty family members celebrating the day. Large families may be old-fashioned but according to Mrs Laverty, they're a key to happiness. She says her 11 children have kept her young and her marriage healthy.
 
 Now celebrating her 50th wed ding anniversary with her husband Len, she says the couple has always put the children first. Now her children have returned the compliment.
 
@@ -192,17 +210,13 @@ The Laverty families have occassionaly held family reunion gatherings. I have be
 
 <img src="photos/reunion-lavertys-came-in-their-hundreds.jpg">
 
-Hundreds of descendants of the Laverty
-
-family flocked back to the Nambucca Valley recently for a family reunion. It was one of the many events held in the Nambucca Valley during the October long
-
-weekend.
+Hundreds of descendants of the Laverty family flocked back to the Nambucca Valley recently for a family reunion. It was one of the many events held in the Nambucca Valley during the October long weekend.
 
 The family, which has traced its roots back to landing in Australia from Ireland and England in about 1860, filled the Macksville Showground hall to overflow ing for the occasion.
 
 The hall was decorated with Bambo ferns and hundreds of balloons fishing. nets. Old and new photographs adorning the walls. A photograph of the first house built at
 
-Taylors Arm- by a Laverty-took pride of place on the stage. About 1000 Lavertys (including their wives and husbands) took part in the reunion, including one family group with 200 descendants.
+Taylors Arm by a Laverty took pride of place on the stage. About 1000 Lavertys (including their wives and husbands) took part in the reunion, including one family group with 200 descendants.
 
 They danced into the small hours to the music of Phillip Laverty and Gavin Kings' "True Blue" band.
 
@@ -344,7 +358,7 @@ Current custodians of the photograph, Melbourne resident David Sandground and Mi
 
 Taylors Arm RSL Sub-Branch President Barry Fuller has spoken with David about involving the official presentation of the photograph to the McGree family in the unveiling of the new Taylors Arm cenotaph plaque around September or October.
 
-A small mention of the famous Pub with no Beer was all it took for David to agree, and he is now try ing to get Michael to travel from England to attend the unveiling and presentation.
+A small mention of the famous Pub with no Beer was all it took for David to agree, and he is now trying to get Michael to travel from England to attend the unveiling and presentation.
 
 Taylors Arm's small but hardworking sub-branch are now in the process of up-dating the cenotaph with names of those who served in World War One and Two, and also more recent conflicts.
 
@@ -413,6 +427,8 @@ Contents date range - 1939 - 1948
 <img src="photos/leonard-james-laverty-war-05.jpg">
 
 <img src="photos/leonard-james-laverty-war-06.jpg">
+
+## War Memorials
 
 # The McGree Family
 
