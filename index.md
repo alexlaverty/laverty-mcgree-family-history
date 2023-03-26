@@ -49,8 +49,9 @@ title: Alex Laverty Family History Book
 - [The Koch Family](#the-koch-family)
     - [German Ancestry](#german-ancestry)
     - [The Cooks of Stuarts Point](#the-cooks-of-stuarts-point)
-        - [John Cook Reports Stolen Grog](#john-cook-reports-stolen-grog)
-        - [John Peter Cook Death Certificate](#john-peter-cook-death-certificate)
+    - [Peter Cook and his 6 Sons](#peter-cook-and-his-6-sons)
+    - [John Cook Reports Stolen Grog](#john-cook-reports-stolen-grog)
+    - [John Peter Cook Death Certificate](#john-peter-cook-death-certificate)
     - [Alfred Henry Cook and Jessie Elvina Coulter](#alfred-henry-cook-and-jessie-elvina-coulter)
 - [Immigration to Australia](#immigration-to-australia)
     - [Laverty Immigration](#laverty-immigration)
@@ -590,14 +591,18 @@ This gives a little insight to conditions at Stuart's Point in the 19th century.
 
 Peter died in 1909 and his death is recorded in an article from a local newspaper at the time which states he was a very old colo nist It continues "Peter Cook who died at his residence at Stuart's Point on Friday night last week. The deceased gentleman was well-known not only in the Maclery District, but also the Nambucca and Bellinger. He succumbed to heart failure following kidney disease and his death was rather sadden No one in the vicinity of Stuart's Point was more highly respected than "Grandfather Cook" as he was affectionately termed by both young and old. A Native of Germany the late Mr. Cook was 84 years of age, but he was in all respects except in regard to place of birth an Australian, as he had resided in NSW for nearly 60 years and was intintensely proud of his adopted land. Deceased was
 
-### John Cook Reports Stolen Grog
+## Peter Cook and his 6 Sons
+
+<img src="photos/Peter-Cook-and-his-6-sons.jpg">
+
+## John Cook Reports Stolen Grog
 
 <img src="photos/peter-cook-stolen-grog.jpg">
 
 John P. Cook, caretaker at the wharf, deposed that the goods were kept locked up in the store; there were casks of grog there, which were consigned to Mr Dan Guiney;
 witness looked at them on the Saturday and aon Sunday between 5 and 6; there was nothing wrong then; about 10 or 11 on Monday morning he went down to the store and found some boards had been removed; on unlocking the door and going inside he found one of the casks pulled away from where it had stood, and a case had been shifted; a hole had been bored in teh cask; he shook it, there was a smell, but he did not know what it was; had to shove teh cask and roll it along the best way he could; he never had his hand on it until he found the hole in it; was there when it was put in the store.
 
-### John Peter Cook Death Certificate
+## John Peter Cook Death Certificate
 
 <img src="photos/john-peter-cook-death-certificate.jpg">
 
