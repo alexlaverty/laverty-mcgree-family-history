@@ -3,8 +3,9 @@ output:
   html_document:
     css: styles.css
 title: Alex Laverty Family History Book
-
 ---
+
+<font size="4">
 
 # Table of Contents
 
@@ -846,3 +847,5 @@ E. J. DWYER
 If you wanted to go on a Laverty ancestry tour and visit some locations and cemeteries you could do the following drive
 
 <img src="photos/laverty-ancestry-tour.png">
+
+</font>
