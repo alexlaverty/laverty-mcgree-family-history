@@ -12,11 +12,11 @@ title: Alex Laverty Family History Book
 
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
-    - [The Laverty Surname](#the-laverty-surname)
+- [The Laverty Surname](#the-laverty-surname)
 - [Alex Laverty Ancestry.com DNA Ethnicity Estimate](#alex-laverty-ancestrycom-dna-ethnicity-estimate)
     - [Ethnicity Estimate](#ethnicity-estimate)
     - [Ethnicity Estimate by Parent](#ethnicity-estimate-by-parent)
-    - [Ancestors Family Tree](#ancestors-family-tree)
+- [Ancestry.com Family Tree](#ancestrycom-family-tree)
 - [Laverty Farm in Taylors Arm](#laverty-farm-in-taylors-arm)
 - [The Pub with No Beer](#the-pub-with-no-beer)
 - [Lavertys Bridge](#lavertys-bridge)
@@ -45,6 +45,7 @@ title: Alex Laverty Family History Book
     - [Patrick Joseph McGree](#patrick-joseph-mcgree)
 - [The McGree Family](#the-mcgree-family)
     - [Peter James McGree](#peter-james-mcgree)
+    - [James and Bridget McGree](#james-and-bridget-mcgree)
 - [The Koch Family](#the-koch-family)
     - [German Ancestry](#german-ancestry)
     - [The Cooks of Stuarts Point](#the-cooks-of-stuarts-point)
@@ -83,9 +84,17 @@ title: Alex Laverty Family History Book
 
 The information listed here will mainly focus around the descendants and ancestors of my paternal grand parents, Leonard James Laverty and Elsie Pearl McGree.
 
+The photos and stories have been collected from :
+
+* Ancestry.com
+* Laverty family Facebook groups
+* Australian War Archives
+* A box of genealogy documents and photos from Eileen
+* The internet
+
 <img src="photos/leonard-elsie-black-white.jpg">
 
-## The Laverty Surname
+# The Laverty Surname
 
 Laverty is the anglicized form of an old Irish name written as “Ua Flaithbertach” (nominative) or “Ua Flaithbertaig” (genitive) in Old Irish and Middle Irish texts.
 
@@ -120,7 +129,7 @@ Added together, the percents from each parent for a region equals your percent f
 
 <img src="photos/alex-laverty-ethnicity-estimate-detailed-comparison.png">
 
-## Ancestors Family Tree
+# Ancestry.com Family Tree
 
 This is my paternal family tree
 
@@ -428,7 +437,7 @@ Taylors Arm Sub-Branch members are now completing arrangements for Mr Sandground
 
 The presentation will coincide with another special event in Taylors Arm history - the unveiling and dedication of a plaque to those who gave their lives to our country.
 
-All relatives, friends and interested people are invited to attend this histor ical event. Organisers expect a large attendance of neighbouring sub branch members to witness the occa sion.
+All relatives, friends and interested people are invited to attend this historical event. Organisers expect a large attendance of neighbouring sub branch members to witness the occasion.
 
 ### Planning Begins for McGree Photo Presentation
 
@@ -549,6 +558,10 @@ Pictured are left to right Jim Gaddes, Peter McGree and Albert Cordell.
 
 <img src="photos/Peter-James-McGree-bullocks-macksville-railway-station-1920.jpg">
 
+## James and Bridget McGree
+
+<img src="photos/Bridget-and-James-McGree.jpg">
+
 # The Koch Family
 
 ## German Ancestry
@@ -624,7 +637,7 @@ Michael Laverty and Sarah Jane Laverty (McCormick) came to Australia in 1865 on 
 
 Ship manifest for Peter Koch and his wife Anna coming to Australia with their son Franz
 
-<img src="photos/peter-anna-francis-triton-manifest.png">
+<img src="photos/peter-anna-francis-triton-manifest.png" width="100%">
 
 Hard to read but I think it's a long the lines of
 
