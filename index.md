@@ -5,8 +5,6 @@ output:
 title: Alex Laverty Family History Book
 ---
 
-<font size="4">
-
 # Table of Contents
 
 <!-- TOC -->
@@ -65,6 +63,7 @@ title: Alex Laverty Family History Book
 - [Deaths](#deaths)
     - [Elsie Pearl Laverty McGree Eulogy](#elsie-pearl-laverty-mcgree-eulogy)
     - [Leonard James Laverty](#leonard-james-laverty)
+    - [NORA LAVERTY](#nora-laverty)
     - [Denis Michael Laverty - Died 26th August, 1961](#denis-michael-laverty---died-26th-august-1961)
 - [List of Graves](#list-of-graves)
     - [Bowraville Cemetery](#bowraville-cemetery)
@@ -533,7 +532,16 @@ Contents date range - 1939 - 1948
 
 ## Utungun Taylors Arm WW1 Honor Roll
 
-https://vwma.org.au/explore/memorials/10044
+TAYLORS ARM FIRST WORLD WAR HONOR ROLL
+
+DESCRIPTION
+The Honor Roll is a large memorial consisting of a slab of marble mounted on a classically designed timber frame. It was reburbished with an Anzac Centenary Grant.
+
+A Taylors Arm Reception Committee was formed by April 1921 and steps were taken to erect a Roll in the Taylors Arm Hall. The secretary was instructed to obtain prices from various firms as well as advice on the style of the monument. The Nambucca and Bellinger News on 6 May 1921 reported an order had been placed with Harvey and Son, Kempsey. At that stage 44 names had been received.
+
+Ten months later, on 24 February 1922, they published a letter from Clem Sanders, a Nambucca Heads businessman explaining the reason for the delay in unveiling the Roll. Mr Sanders and Mr C. Johnson were charged with coordinating the work. It was now in the hands of Harvey and Son and expected to be completed in a week or two. The marble slab was to cost £50 and at that stage was to contain over seventy names. The first meeting to plan an unveiling had proved unsuccessful and he appealed for attendees to express interest, so the event could be arranged.
+
+https://www.warmemorialsregister.nsw.gov.au/content/taylors-arm-hall-ww1-honor-roll
 
 <img src="photos/taylors_arm_ww1_honor_roll_mcgree_brothers.jpg">
 
@@ -764,6 +772,69 @@ Being a great man of deep faith, his greatest love has been for His God and his 
 May He rest in peace...
 
 (Matt 25-34)
+## NORA LAVERTY
+
+OBITUARY
+—————:—:—————
+MRS. NORA LAVERTY.
+—————
+There passed away at the Bow-
+raville hospital on Monday of last
+week after a month's illness with
+heart trouble, an old resident of the
+Nambucca in the person of Mrs. Nora
+Laverty, at the age of 64 years.
+She was the daughter of the late
+Mr. and Mrs. John Goldspring and
+was born at Emmaville, N.S.W.
+She came to the Nambucca with her
+parents about 59 years ago and set-
+tled on the farm now owned by Mr.
+P. McGree. After her marriage
+with the late Mr. Laverty, she set-
+tled down on the farm which had
+been selected by her husband and
+resided there until the time of her
+death. Her husband predeceased her
+some twenty-four years ago. In the
+early days they carried on grazing
+and maize growing, later turning to
+dairying. The late Mrs. Laverty
+was respected by all who knew her.
+She made many friends and was al-
+ways willing to help any who came,
+to her for assistance; she was a fine
+neighbour, and Taylor's Arm is the
+loser by her demise. About two
+years ago she suffered a heart at-
+tack and although she recovered
+then, the after effects were felt
+about six weeks ago; she moved to
+Bowraville Hospital where, despite
+all that could be done, she passed
+away as stated. She leaves a fam-
+ily of 11 children to mourn their
+loss. The sons are Messrs. Michael
+(Macksville), Leo (Sydney), Dennis
+(Nowra), John (Bowraville), Leon-
+ard (Taylor's Arm) L/Cpl. Clement
+(A.I.F.), Austin (Taylor's Arm),
+and the daughters are Mrs. Tobin
+(Taylor's Ann), Mrs. J. Kirkman
+(Macksville), Mrs. E. Kirkman
+(Burrapine) and Miss G. Laverty
+(Taylors Arm). One son (Patrick)
+predeceased her as a baby. The
+funeral took place on Tuesday, 24th
+October, to the Bowraville. Ceme-
+tery after Requiem Mass was cele-
+brated by Rev. Father Cohalan at
+the Catholic Church. Rev. Dr.
+O'Rourke officiated at the graveside
+in the presence of a large gathering.
+— Bowraville "Guardian."
+
+source - https://trove.nla.gov.au/newspaper/article/214657406?searchTerm=laverty%20taylors%20arm#
 
 ## Denis Michael Laverty - Died 26th August, 1961
 
@@ -847,5 +918,3 @@ E. J. DWYER
 If you wanted to go on a Laverty ancestry tour and visit some locations and cemeteries you could do the following drive
 
 <img src="photos/laverty-ancestry-tour.png">
-
-</font>
