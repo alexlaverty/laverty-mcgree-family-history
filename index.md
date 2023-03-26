@@ -30,12 +30,13 @@ title: Alex Laverty Family History Book
     - [Laverty Reunion 2015](#laverty-reunion-2015)
         - [Leonard and Elsie Lavertys Children and Partners](#leonard-and-elsie-lavertys-children-and-partners)
         - [Leonard and Elsie Lavertys Grand Children](#leonard-and-elsie-lavertys-grand-children)
-- [World War II](#world-war-ii)
+- [World War I](#world-war-i)
     - [The McGree Brothers](#the-mcgree-brothers)
         - [The McGree Brothers of Taylor’s Arm](#the-mcgree-brothers-of-taylors-arm)
         - [War Time Mystery Leads Two Men to Taylors Arm](#war-time-mystery-leads-two-men-to-taylors-arm)
         - [Planning Begins for McGree Photo Presentation](#planning-begins-for-mcgree-photo-presentation)
         - [McGree Family Truly Upheld ANZAC Spirit](#mcgree-family-truly-upheld-anzac-spirit)
+- [World War II](#world-war-ii)
     - [Leonard James Laverty](#leonard-james-laverty)
         - [Leonard James Laverty enlistment form](#leonard-james-laverty-enlistment-form)
     - [War Memorials](#war-memorials)
@@ -338,7 +339,7 @@ Front Row : Jason, Jessica , Denis, Sharon, 1, Andrea, Carol, Lenice
 
 <img src="photos/laverty-reunion-2015-cousins.jpg">
 
-# World War II
+# World War I
 
 ## The McGree Brothers
 
@@ -476,6 +477,8 @@ On July 18, 1918, Michael Dennis McGree, born 1890, was killed in action in Fran
 REMEMBERED: The McGree brothers are named on the War Memorials at both Taylors Arm. (top) and Bowraville (below). inscribed
 
 LANDING: The ANZACs at Gabba Tempa 1915
+
+# World War II
 
 ## Leonard James Laverty
 
