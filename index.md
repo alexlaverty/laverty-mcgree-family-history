@@ -572,6 +572,8 @@ Elsie Pearl McGree --> Ethel Stella Cook --> Alfred Henry Cook --> Johan Peter K
 
 <img src="photos/koch-german-ancestry.png">
 
+<img src="photos/german-ancestry-wallstadt.png">
+
 ## The Cooks of Stuarts Point
 
 <img src="photos/the-cooks-of-stuarts-point.jpg">
