@@ -32,6 +32,7 @@ title: Alex Laverty Family History Book
         - [Leonard and Elsie Lavertys Grand Children](#leonard-and-elsie-lavertys-grand-children)
 - [World War I](#world-war-i)
     - [The McGree Brothers](#the-mcgree-brothers)
+        - [McGree Brothers Family Tree](#mcgree-brothers-family-tree)
         - [The McGree Brothers of Taylor’s Arm](#the-mcgree-brothers-of-taylors-arm)
         - [War Time Mystery Leads Two Men to Taylors Arm](#war-time-mystery-leads-two-men-to-taylors-arm)
         - [Planning Begins for McGree Photo Presentation](#planning-begins-for-mcgree-photo-presentation)
@@ -39,8 +40,9 @@ title: Alex Laverty Family History Book
 - [World War II](#world-war-ii)
     - [Leonard James Laverty](#leonard-james-laverty)
         - [Leonard James Laverty enlistment form](#leonard-james-laverty-enlistment-form)
-    - [War Memorials](#war-memorials)
-        - [Patrick Joseph McGree](#patrick-joseph-mcgree)
+- [War Memorials](#war-memorials)
+    - [Utungun Taylors Arm WW1 Honor Roll](#utungun-taylors-arm-ww1-honor-roll)
+    - [Patrick Joseph McGree](#patrick-joseph-mcgree)
 - [The McGree Family](#the-mcgree-family)
     - [Peter James McGree](#peter-james-mcgree)
 - [The Koch Family](#the-koch-family)
@@ -343,6 +345,12 @@ Front Row : Jason, Jessica , Denis, Sharon, 1, Andrea, Carol, Lenice
 
 ## The McGree Brothers
 
+### McGree Brothers Family Tree
+
+The 3 McGree Brothers who died in World War 1
+
+<img src="photos/mcgree-brothers-tree.png">
+
 ### The McGree Brothers of Taylor’s Arm
 
 https://www.storiesofoz.com/2017/11/11/the-mcgree-brothers-of-taylors-arm-2/
@@ -456,6 +464,10 @@ Burrapine Hall: 1914-1918 war-Addison B, Chelman W, Daley CC and McKay A. 1939-1
 
 <img src="photos/Michael_mcgree_1889-1918_and_his_sister_ellen.jpg">
 
+<b>John Ambrose McGree</b>
+
+<img src="photos/John-Ambrose-MCGREE.jpg">
+
 ### McGree Family Truly Upheld ANZAC Spirit
 
 <img src="photos/mcgree-family-truly-upheld-anzac-spirit.jpg">
@@ -506,9 +518,15 @@ Contents date range - 1939 - 1948
 
 <img src="photos/leonard-james-laverty-war-06.jpg">
 
-## War Memorials
+# War Memorials
 
-### Patrick Joseph McGree
+## Utungun Taylors Arm WW1 Honor Roll
+
+https://vwma.org.au/explore/memorials/10044
+
+<img src="photos/taylors_arm_ww1_honor_roll_mcgree_brothers.jpg">
+
+## Patrick Joseph McGree
 
 Service number = 10/1586
 Rank = Private
