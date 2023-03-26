@@ -28,16 +28,18 @@ title: Alex Laverty Family History Book
         - [Laverty re-union](#laverty-re-union)
         - [Laverty reunion](#laverty-reunion)
     - [Laverty Reunion 2015](#laverty-reunion-2015)
-    - [Leonard and Elsie Lavertys Children and Partners](#leonard-and-elsie-lavertys-children-and-partners)
-    - [Leonard and Elsie Lavertys Grand Children](#leonard-and-elsie-lavertys-grand-children)
+        - [Leonard and Elsie Lavertys Children and Partners](#leonard-and-elsie-lavertys-children-and-partners)
+        - [Leonard and Elsie Lavertys Grand Children](#leonard-and-elsie-lavertys-grand-children)
 - [World War II](#world-war-ii)
     - [The McGree Brothers](#the-mcgree-brothers)
+        - [The McGree Brothers of Taylor’s Arm](#the-mcgree-brothers-of-taylors-arm)
         - [War Time Mystery Leads Two Men to Taylors Arm](#war-time-mystery-leads-two-men-to-taylors-arm)
         - [Planning Begins for McGree Photo Presentation](#planning-begins-for-mcgree-photo-presentation)
         - [McGree Family Truly Upheld ANZAC Spirit](#mcgree-family-truly-upheld-anzac-spirit)
     - [Leonard James Laverty](#leonard-james-laverty)
         - [Leonard James Laverty enlistment form](#leonard-james-laverty-enlistment-form)
     - [War Memorials](#war-memorials)
+        - [Patrick Joseph McGree](#patrick-joseph-mcgree)
 - [The McGree Family](#the-mcgree-family)
     - [Peter James McGree](#peter-james-mcgree)
 - [The Koch Family](#the-koch-family)
@@ -70,6 +72,7 @@ title: Alex Laverty Family History Book
         - [James & Bridget McGree nee Sullivan](#james--bridget-mcgree-nee-sullivan)
     - [Kempsey West Cemetery](#kempsey-west-cemetery)
         - [Michael Laverty and Sarah Jane Laverty nee McCormick](#michael-laverty-and-sarah-jane-laverty-nee-mccormick)
+- [Laverty Ancestry Tour](#laverty-ancestry-tour)
 
 <!-- /TOC -->
 
@@ -321,23 +324,81 @@ Roy Sanders Street, South West Rocks
 
 ## Laverty Reunion 2015
 
-## Leonard and Elsie Lavertys Children and Partners
+### Leonard and Elsie Lavertys Children and Partners
 
-Lyndon, Colin, Linda, Joan, Pam, Peter, Susan, Gerry, Mary, Tom, Lilly, Danny, Elsie, Irene, Greg, Ilene, Len, Wendy.
+Lyndon, Colin, Linda, Joan, Pam, Peter, Susan, Gerry, Mary, Tom, Lilly, Danny, Elsie, Irene, Greg, Eileen, Len, Wendy.
 
 <img src="photos/laverty-family-reunion-2015-siblings.jpg">
 
-## Leonard and Elsie Lavertys Grand Children
+### Leonard and Elsie Lavertys Grand Children
 
-Back Row : Luke, Brooke, Andrew, Aaron, Alex, Melissa, Michael, 1, 1, Ashleigh
+Back Row : Luke, Brooke, Andrew, Aaron, Alex, Melissa, Michael, Tina, 1, Ashleigh
 
-Front Row : Jason, 1, Denis, Sharon, 1, Andrea, Carol, Lenice
+Front Row : Jason, Jessica , Denis, Sharon, 1, Andrea, Carol, Lenice
 
 <img src="photos/laverty-reunion-2015-cousins.jpg">
 
 # World War II
 
 ## The McGree Brothers
+
+### The McGree Brothers of Taylor’s Arm
+
+https://www.storiesofoz.com/2017/11/11/the-mcgree-brothers-of-taylors-arm-2/
+
+Posted on November 11, 2017 by gbarron
+
+John, Michael and Patrick McGree were raised on their parents’ farm on the Mid-north coast of NSW. All three answered the call to arms in 1915. The ANZAC battalions were forming up, and the brothers were determined to have their chance at glory.
+
+Their mother, Bridget Sullivan, had married Irishman James McGree in St Augustine’s Church, Longford, Tasmania in 1874. The young couple moved north and took up a selection on Hickey’s Creek near Kempsey. Life was tough, but like most good Catholics they welcomed children, bringing twelve boys and girls into the world over a twenty-five-year period.
+
+Patrick, the oldest of the three McGree boys who served, was a born adventurer. He headed off to New Zealand at an early age, living in Waiapo and Gisborne. He kept in touch with his Australian family via mail and occasional visits.
+
+In 1914, when war broke out, Patrick was 31 years old, yet he signed on with the Wellington Infantry, New Zealand Expeditionary Force. Michael crossed the Tasman Sea to join his brother, but was waylaid by an unscheduled love affair. He married his Kiwi girl, Nellie, just before heading off for intensive training in Egypt.
+
+John, still at home on the farm outside Taylors Arm, was 22 when he joined up in 1915. He was a small, wiry man, weighing just 58 kg, and of average height. In fact, none of the McGree boys were tall, but were all as tough as nails, with brilliant blue eyes and Irish charm. The doctor examining Michael for his enlistment described him as having a “grand constitution.”
+
+Patrick and Michael, though assigned to different units, both took their place amongst the bloody heroes of the ANZAC landings at Gallipoli. Both survived the early days of suicide charges on the well-entrenched Turks, but natural attrition took its toll. Patrick was killed on August 8, 1915, in the defence of a hill called Chunuk Bair.
+
+<b>Nambucca and Bellinger New Fri Nov 26 1915</b>
+
+<img src="photos/mcgree-brothers-taylors-arm-001.png">
+
+Michael was wounded in the last days of the Gallipoli campaign, and was evacuated to the Fulham Military Hospital in England. His recuperation was slow, and he endured hospitalisation for almost six months before being returned to his unit, judged as fit to serve in the hellish trenches of France.
+
+On the 28th of July 1916 that “tough little bastard” John McGree was one of thousands sent in human waves against the German trenches at the Battle of the River Somme. He was shot in the chest and back. He was still alive when he reached the field hospital, but died within twenty-four-hours. He was buried at the nearby Warloy-Baillon Military Cemetery.
+
+<b>McGree death</b>
+
+<img src="photos/mcgree-brothers-taylors-arm-002.png">
+
+James and Bridget received the usual telegram from Base Records in Melbourne informing them of John’s death: a message just fourteen words long. Losing one son was hard enough. The loss of a second must have been hard to bear.
+
+Bridget penned a desperate letter back to Base Records.
+
+<b>McGree Bridget's Letter</b>
+
+<img src="photos/mcgree-brothers-taylors-arm-003.png">
+
+Dear Sir
+
+Please could you give me any information about the death of my son Pte John A McGree No. 3888, who died of wounds in France …  I would like to know the name of the hospital where he died, also if he was seriously wounded or what caused his death. What were his last words and where is he buried? Please send reply as soon as possible
+
+B. McGree,
+
+Taylor’s Arm, via Macksville
+
+Five months passed before she received any additional information: a kind letter informing her of the nature of John’s wounds and the name of the hospital and cemetery. John’s personal effects also arrived in the mail: one religious medallion, three handkerchiefs, two brushes, a cap comforter, one photograph and a notebook.
+
+<img src="photos/mcgree-brothers-taylors-arm-004.png">
+
+By July 1918, the surviving brother, Michael McGree, was a veteran of three years of the most terrible warfare mankind had ever known. On the morning of July 18, 1918, just months before the end of the war, his company were ordered to attack a fortified German trench at Gommecourt Wood, France. Running into a hail of lead, Michael was killed in action, just a few kilometres away from the site of his brother John’s death, two years earlier.
+
+Their father, James McGree died at the age of 86, in 1928. Bridget lived on until she was 87, a highly respected local pioneer, and a matriarch of the Laverty, Brock, and McGree families. She died in 1940 and was buried in Macksville cemetery.
+
+The strength she must have had to shoulder the grief of three lost sons is a testament to the spirit of not just the Anzacs, but their families.
+
+Written and Researched by Greg Barron
 
 ### War Time Mystery Leads Two Men to Taylors Arm
 
@@ -443,6 +504,19 @@ Contents date range - 1939 - 1948
 <img src="photos/leonard-james-laverty-war-06.jpg">
 
 ## War Memorials
+
+### Patrick Joseph McGree
+
+Service number = 10/1586
+Rank = Private
+Unit = Wellington Regiment
+Service	New Zealand = Expeditionary Force
+Conflict/Operation = First World War, 1914-1918
+Conflict Eligibility Date = First World War, 1914-1921
+Date of Death = 08 August 1915
+Place of Death = Gallipoli, Dardanelles, Turkey
+Cause of Death = Killed in action
+Cemetery or Memorial Details = Chunuk Bair Memorial, Gallipoli Peninsula, Canakkale Province, Turkey
 
 # The McGree Family
 
@@ -713,3 +787,6 @@ E. J. DWYER
 ### Michael Laverty and Sarah Jane Laverty nee McCormick
 
 <img src="photos/michael-and-sarah-laverty-grave.jpg">
+
+
+# Laverty Ancestry Tour
