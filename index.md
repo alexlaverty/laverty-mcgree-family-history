@@ -622,7 +622,18 @@ Michael Laverty and Sarah Jane Laverty (McCormick) came to Australia in 1865 on 
 
 ## Koch Immigration
 
+Ship manifest for Peter Koch and his wife Anna coming to Australia with their son Franz
+
 <img src="photos/peter-anna-francis-triton-manifest.png">
+
+Hard to read but I think it's a long the lines of
+
+|Surname|Firstname|Age|||
+|---|---|---|---|---|
+|Koch|Peter|28||Wallstadt|
+|   |Anna|29|Wife|"|
+|   |Franz|1|Son|"|
+
 
 # Births
 
