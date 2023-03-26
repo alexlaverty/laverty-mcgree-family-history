@@ -89,7 +89,7 @@ The photos and stories have been collected from :
 * Ancestry.com
 * Laverty family Facebook groups
 * Australian War Archives
-* A box of genealogy documents and photos from Eileen
+* A box of genealogy documents and photos from Elsie (Sister Denise)
 * The internet
 
 <img src="photos/leonard-elsie-black-white.jpg">
