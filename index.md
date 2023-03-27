@@ -215,7 +215,7 @@ Nambucca News (NSW : 1909 - 1911) View title info Fri 23 Jul 1909 - Page 3 - Shi
 
 <b>Laverty's Bridge.</b>
 
-Cr. Wallace moved that the engineer call tenders for the construction of Laverty's CrossingBridge. It was time that the work was commenced.
+Cr. Wallace moved that the engineer call tenders for the construction of Laverty's Crossing Bridge. It was time that the work was commenced.
 
 Cr. Dowle : The engineer's report is against it.
 
@@ -223,9 +223,9 @@ Cr. Lyon : The report says the crossing is good, and the bridge is hardly necess
 
 Cr. Wallace : The report is correct. In fine weather the crossingis good. But the money is on the estimates, so the bridge must be constructed.
 
-Cr. Lyon : I don't see there isany urgent necessity for it.
+Cr. Lyon : I don't see there is any urgent necessity for it.
 
-Cr. H. Lane seconded the motion. In his opinion the bridge was required, and every one in the district was in favor of it. vInflood time the bridge would be required.
+Cr. H. Lane seconded the motion. In his opinion the bridge was required, and every one in the district was in favor of it. In flood time the bridge would be required.
 
 Cr. Lyon: We don't get floods now.
 
@@ -233,7 +233,7 @@ Cr. Lane : We have had our dry cycles, but in time the wet cycles will return, a
 
 The President ; Certainly £500 were put on the estimates for the bridge.
 
-Cr. Dowle : The money wasplaced on the estimates to get a report; That report is now to hand, and it states the bridge is not necessary. The report was adopted, so that put an end to the matter. Judging by the manner the councillors had just spoken, and especially Cr. Wallace, the Engineer was a man of great abilities, so they could not very well refuse to accept his report. To pass the motion would mean flying in the face of the report;
+Cr. Dowle : The money was placed on the estimates to get a report; That report is now to hand, and it states the bridge is not necessary. The report was adopted, so that put an end to the matter. Judging by the manner the councillors had just spoken, and especially Cr. Wallace, the Engineer was a man of great abilities, so they could not very well refuse to accept his report. To pass the motion would mean flying in the face of the report;
 
 The President : Let the engineer prepare estimates for the bridge, and if it can be done for £500 it will be taken into consideration.
 
@@ -253,7 +253,7 @@ Cr. Wallace pointed out that it was strange that Warrell Creek Bridge, which was
 
 The Engineer: Warrell Creek Bridge is between 120 and 130 feet, whilst Laverty's Crossing Bridge would be fully 200 feet long.
 
-Cr. Dowle: The banks are not safe, and the piles are likely to washaway at any time. On the motion of Cr. Wallace,the engineer was instructed to prepare detailed estimates or the bridge.
+Cr. Dowle: The banks are not safe, and the piles are likely to wash away at any time. On the motion of Cr. Wallace, the engineer was instructed to prepare detailed estimates for the bridge.
 
 source - https://trove.nla.gov.au/newspaper/article/215032997?searchTerm=%22lavertys%20bridge%22
 
