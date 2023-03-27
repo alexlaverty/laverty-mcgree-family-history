@@ -19,7 +19,8 @@ title: Alex Laverty Family History Book
 - [Laverty Farm in Taylors Arm](#laverty-farm-in-taylors-arm)
 - [The Pub with No Beer](#the-pub-with-no-beer)
 - [Lavertys Bridge](#lavertys-bridge)
-    - [Big is beautiful for family](#big-is-beautiful-for-family)
+    - [Construction of Lavertys Bridge](#construction-of-lavertys-bridge)
+- [Big is beautiful for family](#big-is-beautiful-for-family)
 - [Laverty Family Reunions](#laverty-family-reunions)
     - [Laverty Family Reunion 1989](#laverty-family-reunion-1989)
         - [Laverty's came in their hundreds](#lavertys-came-in-their-hundreds)
@@ -206,7 +207,57 @@ Which according to the Taylors Arm Community facebook group occassionaly floods 
 
 <img src="photos/lavertys-bridge-flood.jpg">
 
-## Big is beautiful for family
+## Construction of Lavertys Bridge
+
+Apparently in 1909 there was great debate about the need for the construction of the Laverty Bridge, from :
+
+Nambucca News (NSW : 1909 - 1911) View title info Fri 23 Jul 1909 - Page 3 - Shire Council Meeting.
+
+<b>Laverty's Bridge.</b>
+
+Cr. Wallace moved that the engineer call tenders for the construction of Laverty's CrossingBridge. It was time that the work was commenced.
+
+Cr. Dowle : The engineer's report is against it.
+
+Cr. Lyon : The report says the crossing is good, and the bridge is hardly necessary.
+
+Cr. Wallace : The report is correct. In fine weather the crossingis good. But the money is on the estimates, so the bridge must be constructed.
+
+Cr. Lyon : I don't see there isany urgent necessity for it.
+
+Cr. H. Lane seconded the motion. In his opinion the bridge was required, and every one in the district was in favor of it. vInflood time the bridge would be required.
+
+Cr. Lyon: We don't get floods now.
+
+Cr. Lane : We have had our dry cycles, but in time the wet cycles will return, and then the bridge will be needed.
+
+The President ; Certainly £500 were put on the estimates for the bridge.
+
+Cr. Dowle : The money wasplaced on the estimates to get a report; That report is now to hand, and it states the bridge is not necessary. The report was adopted, so that put an end to the matter. Judging by the manner the councillors had just spoken, and especially Cr. Wallace, the Engineer was a man of great abilities, so they could not very well refuse to accept his report. To pass the motion would mean flying in the face of the report;
+
+The President : Let the engineer prepare estimates for the bridge, and if it can be done for £500 it will be taken into consideration.
+
+Cr. Wallace : Call tenders for it. That is the only way to get at the estimates. The engineer says nothing against it. The engineer explained that if a bridge was constructed over the crossing it would cost £1500, and if taken across from Laverty's paddock the cost would be about £900. The bridge would be about 350 feet long, and more over' the banks are very friable.
+
+The President: We have not got the money at our disposal.
+
+Cr. Moseley: It is not fair to the contractors to call for tenders just to get at the cost.
+
+Cr. Lyon: The engineer has gone near enough to the cost to satisfy us.
+
+Cr. Dowle : If we go outside the engineer's report, we will take the matters out of his hands.
+
+Cr. Moseley said he was satisfied to accept the engineer's report, and if that report was against the bridge he did not see why it should be constructed.
+
+Cr. Wallace pointed out that it was strange that Warrell Creek Bridge, which was far longer than than of Laverty's Creek, should cost only £900. In his opinion the Laverty's Creek Bridge could  be constructed for £500.
+
+The Engineer: Warrell Creek Bridge is between 120 and 130 feet, whilst Laverty's Crossing Bridge would be fully 200 feet long.
+
+Cr. Dowle: The banks are not safe, and the piles are likely to washaway at any time. On the motion of Cr. Wallace,the engineer was instructed to prepare detailed estimates or the bridge.
+
+source - https://trove.nla.gov.au/newspaper/article/215032997?searchTerm=%22lavertys%20bridge%22
+
+# Big is beautiful for family
 
 The Laverty families were large in size, generations of Laverty's with 10 kids per family was not uncommon.
 
