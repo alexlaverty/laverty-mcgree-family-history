@@ -529,6 +529,11 @@ Burrapine Hall: 1914-1918 war-Addison B, Chelman W, Daley CC and McKay A. 1939-1
 
 <img src="photos/John-Ambrose-MCGREE.jpg">
 
+<img src="photos/john-ambrose-mcgree-ww1-death-notice.jpg">
+
+<img src="photos/john-ambrose-mcgree-ww1-enlistment.jpg">
+
+
 ### McGree Family Truly Upheld ANZAC Spirit
 
 <img src="photos/mcgree-family-truly-upheld-anzac-spirit.jpg">
@@ -557,7 +562,7 @@ LANDING: The ANZACs at Gabba Tempa 1915
 
 <img src="photos/leonard-laverty-army.jpg">
 
-<b>Leonard James Laverty and his sister Jenevieve Laverty</b>
+<b>Leonard James Laverty and his sister Genevieve Mary Laverty</b>
 
 <img src="photos/leonard-laverty-1940.jpg">
 
