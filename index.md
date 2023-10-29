@@ -137,6 +137,10 @@ This is my paternal family tree
 
 <img src="photos/laverty-pedigree.png">
 
+Laverty and McGree family tree fan chart
+
+<img src="photos/laverty-mcgree-ancestory-fan.jpg">
+
 # Laverty Farm in Taylors Arm
 
 My grandparents Leonard James Laverty and Elsie Pearl McGree lived on a farm in Taylors Arm and had 11 children, 6 boys and 5 girls.
