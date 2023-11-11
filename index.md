@@ -2,7 +2,7 @@
 output:
   html_document:
     css: styles.css
-title: Alex Laverty Family History Book
+title: Laverty McGree Family History
 ---
 
 # Table of Contents
@@ -142,6 +142,8 @@ This is my paternal family tree
 Laverty and McGree family tree fan chart
 
 <img src="photos/laverty-mcgree-ancestory-fan.jpg">
+
+<div style="page-break-after: always;"></div>
 
 # Laverty Farm in Taylors Arm
 
@@ -560,17 +562,25 @@ Taylors Arm Hall: 1914-1918 war - Addison B, Bowie C, Butt O, Carroll TA, Daley 
 
 Burrapine Hall: 1914-1918 war-Addison B, Chelman W, Daley CC and McKay A. 1939-1945 war - McKay N, Smith WA, Thompson H and Ward CD.
 
+<div style="page-break-after: always;"></div>
+
 <b>Patrick James McGree</b>
 
 <img src="photos/war-mystery001.jpg">
+
+<div style="page-break-after: always;"></div>
 
 <b>Peter James McGree</b>
 
 <img src="photos/war-mystery002.jpg">
 
+<div style="page-break-after: always;"></div>
+
 <b>Peter James McGree and his sister Ellen</b>
 
 <img src="photos/Michael_mcgree_1889-1918_and_his_sister_ellen.jpg">
+
+<div style="page-break-after: always;"></div>
 
 <b>John Ambrose McGree</b>
 
@@ -580,6 +590,7 @@ Burrapine Hall: 1914-1918 war-Addison B, Chelman W, Daley CC and McKay A. 1939-1
 
 <img src="photos/john-ambrose-mcgree-ww1-enlistment.jpg">
 
+<div style="page-break-after: always;"></div>
 
 ### McGree Family Truly Upheld ANZAC Spirit
 
@@ -602,6 +613,8 @@ On July 18, 1918, Michael Dennis McGree, born 1890, was killed in action in Fran
 REMEMBERED: The McGree brothers are named on the War Memorials at both Taylors Arm. (top) and Bowraville (below). inscribed
 
 LANDING: The ANZACs at Gabba Tempa 1915
+
+<div style="page-break-after: always;"></div>
 
 # World War II
 
@@ -703,6 +716,8 @@ This gives a little insight to conditions at Stuart's Point in the 19th century.
 
 Peter died in 1909 and his death is recorded in an article from a local newspaper at the time which states he was a very old colo nist It continues "Peter Cook who died at his residence at Stuart's Point on Friday night last week. The deceased gentleman was well-known not only in the Maclery District, but also the Nambucca and Bellinger. He succumbed to heart failure following kidney disease and his death was rather sadden No one in the vicinity of Stuart's Point was more highly respected than "Grandfather Cook" as he was affectionately termed by both young and old. A Native of Germany the late Mr. Cook was 84 years of age, but he was in all respects except in regard to place of birth an Australian, as he had resided in NSW for nearly 60 years and was intintensely proud of his adopted land. Deceased was
 
+<div style="page-break-after: always;"></div>
+
 ## Peter Cook and his 6 Sons
 
 <img src="photos/Peter-Cook-and-his-6-sons.jpg">
@@ -717,6 +732,8 @@ witness looked at them on the Saturday and aon Sunday between 5 and 6; there was
 ## John Peter Cook Death Certificate
 
 <img src="photos/john-peter-cook-death-certificate.jpg">
+
+<div style="page-break-after: always;"></div>
 
 ## Alfred Henry Cook and Jessie Elvina Coulter
 
