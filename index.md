@@ -315,7 +315,7 @@ The Laverty families have occassionaly held family reunion gatherings. I have be
 
 ### Laverty's came in their hundreds
 
-<img src="photos/reunion-lavertys-came-in-their-hundreds.jpg">
+<img src="photos/reunion-lavertys-came-in-their-hundreds.jpg" height="1000px">
 
 Hundreds of descendants of the Laverty family flocked back to the Nambucca Valley recently for a family reunion. It was one of the many events held in the Nambucca Valley during the October long weekend.
 
