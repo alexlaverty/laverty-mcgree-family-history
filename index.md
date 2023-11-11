@@ -151,6 +151,8 @@ My grandparents Leonard James Laverty and Elsie Pearl McGree lived on a farm in 
 
 The farm was a dairy farm and dad would have to get up early to milk the cows.
 
+<div style="page-break-after: always;"></div>
+
 Some photos from the farm :
 
 Len and Leonard in front of a car
@@ -183,6 +185,8 @@ This is what the house on the farm looks like today
 
 They sold the farm and these days it has been subdivided into 3 seperate plots.
 
+<div style="page-break-after: always;"></div>
+
 This is an aerial photo of the farm from google maps
 
 <b>2343 Taylors Arm Rd</b>
@@ -203,6 +207,8 @@ With a glass of wine in hand instead, he penned the poem "A Pub Without Beer".
 
 Country singer Gordon Parsons adapted the song to "A Pub With No Beer", basing it on his own local at Taylors Arm, then called the Cosmopolitan Hotel.
 
+<div style="page-break-after: always;"></div>
+
 When his friend Slim Dusty recorded the song in 1957, it became an Australian chart-topper.
 
 <b>Slim Dusty</b>
@@ -218,6 +224,8 @@ In Taylors Arm is also the Laverty's Bridge.
 <b>Pictured, Andrea Laverty, Gerry Laverty</b>
 
 <img src="photos/gerry-laverty-bridge.png">
+
+<div style="page-break-after: always;"></div>
 
 Which according to the Taylors Arm Community facebook group occassionaly floods and goes under water.
 
@@ -283,7 +291,7 @@ source - https://trove.nla.gov.au/newspaper/article/215032997?searchTerm=%22lave
 
 The Laverty families were large in size, generations of Laverty's with 10 kids per family was not uncommon.
 
-<img src="photos/big-is-beautiful.jpg">
+<img src="photos/big-is-beautiful.jpg" height="80%">
 
 Daily Examiner
 
@@ -301,11 +309,11 @@ The family, including 22 grand children and one great-grand child, surprised the
 
 About 50 family members travelled to Grafton from as far afield as Queensland and Sydney for the special event.
 
+<div style="page-break-after: always;"></div>
+
 # Laverty Family Reunions
 
 The Laverty families have occassionaly held family reunion gatherings. I have been to two such reunions, one in Macksville Showground 1989 when I was about 4 years old, and a more recent one in at Grafton on 4th April 2015.
-
-<div style="page-break-after: always;"></div>
 
 ## Laverty Family Reunion 1989
 
@@ -481,6 +489,8 @@ James and Bridget received the usual telegram from Base Records in Melbourne inf
 
 Bridget penned a desperate letter back to Base Records.
 
+<div style="page-break-after: always;"></div>
+
 <b>McGree Bridget's Letter</b>
 
 <img src="photos/mcgree-brothers-taylors-arm-003.png">
@@ -504,6 +514,8 @@ Their father, James McGree died at the age of 86, in 1928. Bridget lived on unti
 The strength she must have had to shoulder the grief of three lost sons is a testament to the spirit of not just the Anzacs, but their families.
 
 Written and Researched by Greg Barron
+
+<div style="page-break-after: always;"></div>
 
 ### War Time Mystery Leads Two Men to Taylors Arm
 
