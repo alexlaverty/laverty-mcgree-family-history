@@ -106,6 +106,8 @@ The clan motto is Fortuna Favet Fortibus, or “Fortune Favours the Brave”. Th
 
 <img src="photos/laverty-coat-of-arms-fourtune-favours-the-brave.jpg">
 
+<div style="page-break-after: always;"></div>
+
 # Alex Laverty Ancestry.com DNA Ethnicity Estimate
 
 ## Ethnicity Estimate
@@ -155,17 +157,25 @@ Len and Leonard in front of a car
 
 <img src="photos/len-leonard-car.jpg">
 
+<div style="page-break-after: always;"></div>
+
 Leonard, Eileen, Greg, Len and Horse
 
 <img src="photos/laverty-farm-Dad-Eileen-Greg-Len.jpg">
+
+<div style="page-break-after: always;"></div>
 
 Elsie, Tom and Mary possibly picking potatoes
 
 <img src="photos/laverty-farm-MumLaverty-Tom-Mary.jpg">
 
+<div style="page-break-after: always;"></div>
+
 Family trip to the Beach, probably Nambucca Heads
 
 <img src="photos/leonard-greg-len-eileen-elsie.jpg">
+
+<div style="page-break-after: always;"></div>
 
 This is what the house on the farm looks like today
 
@@ -178,6 +188,8 @@ This is an aerial photo of the farm from google maps
 <b>2343 Taylors Arm Rd</b>
 
 <img src="photos/laverty-farm-google-maps.png">
+
+<div style="page-break-after: always;"></div>
 
 # The Pub with No Beer
 
@@ -197,6 +209,8 @@ When his friend Slim Dusty recorded the song in 1957, it became an Australian ch
 
 <img src="photos/slim-dusty-pub-with-no-beer.jpg">
 
+<div style="page-break-after: always;"></div>
+
 # Lavertys Bridge
 
 In Taylors Arm is also the Laverty's Bridge.
@@ -210,6 +224,8 @@ Which according to the Taylors Arm Community facebook group occassionaly floods 
 <b>Lavertys Bridge flooded, 14 February 2020</b>
 
 <img src="photos/lavertys-bridge-flood.jpg">
+
+<div style="page-break-after: always;"></div>
 
 ## Construction of Lavertys Bridge
 
@@ -261,6 +277,8 @@ Cr. Dowle: The banks are not safe, and the piles are likely to wash away at any 
 
 source - https://trove.nla.gov.au/newspaper/article/215032997?searchTerm=%22lavertys%20bridge%22
 
+<div style="page-break-after: always;"></div>
+
 # Big is beautiful for family
 
 The Laverty families were large in size, generations of Laverty's with 10 kids per family was not uncommon.
@@ -287,9 +305,13 @@ About 50 family members travelled to Grafton from as far afield as Queensland an
 
 The Laverty families have occassionaly held family reunion gatherings. I have been to two such reunions, one in Macksville Showground 1989 when I was about 4 years old, and a more recent one in at Grafton on 4th April 2015.
 
+<div style="page-break-after: always;"></div>
+
 ## Laverty Family Reunion 1989
 
 <img src="photos/laverty-reunion-1989.jpg">
+
+<div style="page-break-after: always;"></div>
 
 ### Laverty's came in their hundreds
 
@@ -308,6 +330,8 @@ They danced into the small hours to the music of Phillip Laverty and Gavin Kings
 The dancing finished at lam, and some were back at 6.30am to decorate the truck for Open Air Mass on Sunday morning.
 
 -Dot Clarke
+
+<div style="page-break-after: always;"></div>
 
 ### Lavert Reunion Starts Tomorrow
 
@@ -339,6 +363,8 @@ Mrs Clark said the reunion had been
 
 her research into the family which began in 1986. "It should be a wonderful weekend provided the weather holds off; we are all The reunion will open at the show- really looking forward to it," she said.
 
+<div style="page-break-after: always;"></div>
+
 ### Laverty re-union
 
 <img src="photos/reunion-laverty-reunion.jpg">
@@ -359,6 +385,7 @@ Food and drink will be available on both days, so hopefully it will be a great w
 
 For fourther information contact Dot Clarke (065) 68-1061 or Noreen Fuller (065) 64-7291.
 
+<div style="page-break-after: always;"></div>
 
 ### Laverty reunion
 
@@ -398,6 +425,8 @@ Lyndon, Colin, Linda, Joan, Pam, Peter, Susan, Gerry, Mary, Tom, Lilly, Danny, E
 
 <img src="photos/laverty-family-reunion-2015-siblings.jpg">
 
+<div style="page-break-after: always;"></div>
+
 ### Leonard and Elsie Lavertys Grand Children
 
 Back Row : Luke, Brooke, Andrew, Aaron, Alex, Melissa, Michael, Tina, 1, Ashleigh
@@ -405,6 +434,8 @@ Back Row : Luke, Brooke, Andrew, Aaron, Alex, Melissa, Michael, Tina, 1, Ashleig
 Front Row : Jason, Jessica , Denis, Sharon, 1, Andrea, Carol, Lenice
 
 <img src="photos/laverty-reunion-2015-cousins.jpg">
+
+<div style="page-break-after: always;"></div>
 
 # World War I
 
